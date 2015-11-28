@@ -4,13 +4,12 @@
 Il est temps de se concentrer sur un seul invisible, le son et la musique. Nous allons nous en approcher davantage que les précédents, pas tant pour lui donner une importance particulière que pour s’en servir comme exemple à la notion plus grande qu’est la visualisation de l’invisible.
 **
 
-
 ## Visualiser le son
+
 Le son est propagé par le déplacement de la pression d’un fluide, tel l’air, causé par une vibration avant d’être finalement répercuté sur les mécanismes logés dans nos oreilles.
 
 **IMAGE 1**  
 *Tout comme le son, le vent se propage dans l’air. Pourtant, personne ne semble représenter le son de cette façon. Mais personne n’a non plus essayé de reproduire le vent depuis une carte du vent. Assurément, le type de visualisation est choisi en fonction de l’objectif intentionné.*
-
 
 ### Audiogrammes
 
@@ -54,44 +53,110 @@ Comme le son possède cette possibilité d’être représenté graphiquement de
 
 ### Spectrogrammes
 
-Parlons-en, des spectrogrammes. Le spectrogramme, ou sonagramme, est une autre méthode de visualisation du son. C’est une visualisation de l’intensité du son par fréquence en fonction du temps, là où les audiogrammes présentés jusque ici montraient l’amplitude du son en fonction du temps.  — IMAGE 9
-La fréquence sonore, nous y reviendrons en passant à la musique, est déterminante de la hauteur du son. Le spectrogramme possède donc l’avantage de visualiser la répartition entre les aigus et les graves de l’intensité d’un son.
-Comme un axe est utilisé pour le temps et un second pour la fréquence, l’intensité doit être visualisée grâce à un troisième axe dans un spectrogramme en trois dimensions, ou avec une variation de couleur ou d’opacité si il reste en deux dimensions.  — IMAGES 10 et 11
-Les spectrogrammes sont très utilisés pour reconnaître, analyser et comparer les sons, leur apparence s’apparentant à une sorte d’empreinte du son enregistré. Ils servent notamment pour les recherches en zoologie (champs des oiseaux, cris d’animaux), la phonétique et la reconnaissance vocale.  — IMAGES 12 À 14
-C’est donc une forme de visualisation automatisée qui est surtout destinée à la lecture humaine. Il est cependant possible de reproduire informatiquement un son depuis un spectrogramme et — anecdotiquement — de dessiner un spectrogramme artificiellement avant de le convertir en ondes sonores. Cette technique est utilisée par plusieurs artistes musicaux pour dissimuler par stéganographie des images et des photographies au sein de leur pistes sonores.  — IMAGE 15
+Parlons-en, des spectrogrammes. Le spectrogramme, ou sonagramme, est une autre méthode de visualisation du son. C’est une visualisation de l’intensité du son par fréquence en fonction du temps, là où les audiogrammes présentés jusque ici montraient l’amplitude du son en fonction du temps. **— Image 9**
 
-Du son à la musique
-Avant de passer à la visualisation de la musique, survolons un instant ce qui forme la musique d’un point de vue sonore. La musique peut être réduite à quatre composantes : hauteur, durée, intensité et timbre.
-La hauteur est définie par la fréquence de l’onde sonore. Plus le nombre d’oscillations sur un temps donné est élevé, plus le son est aigu, plus le nombre d’oscillations est faible, plus le son est grave.  — IMAGE 17
+La fréquence sonore, nous y reviendrons en passant à la musique, est déterminante de la hauteur du son. Le spectrogramme possède donc l’avantage de visualiser la répartition entre les aigus et les graves de l’intensité d’un son.
+
+Comme un axe est utilisé pour le temps et un second pour la fréquence, l’intensité doit être visualisée grâce à un troisième axe dans un spectrogramme en trois dimensions, ou avec une variation de couleur ou d’opacité si il reste en deux dimensions. **— Images 10 et 11**
+
+**IMAGE 9**  
+*Un spectrogramme. En l’occurrence, il s’agit de celui correspondant à
+l’audiogramme présenté au même emplacement dans la double-page précédente.*
+
+**IMAGE 10**  
+*Le spectrogramme tridimensionnel d’un morceau de musique.*
+
+**IMAGE 11**  
+*Le spectrogramme en couleurs du chant d’un merle bleu.*
+
+Les spectrogrammes sont très utilisés pour reconnaître, analyser et comparer les sons, leur apparence s’apparentant à une sorte d’empreinte du son enregistré. Ils servent notamment pour les recherches en zoologie (champs des oiseaux, cris d’animaux), la phonétique et la reconnaissance vocale. **— Images 12 À 14**
+
+C’est donc une forme de visualisation automatisée qui est surtout destinée à la lecture humaine. Il est cependant possible de reproduire informatiquement un son depuis un spectrogramme et — anecdotiquement — de dessiner un spectrogramme artificiellement avant de le convertir en ondes sonores. Cette technique est utilisée par plusieurs artistes musicaux pour dissimuler par stéganographie des images et des photographies au sein de leur pistes sonores. **— Image 15**
+
+**IMAGE 12**  
+*La prononciation des mots “ball”, “bar”, “bough” et “buy” visualisée sous forme de spectrogramme.*  
+*Les mêmes mots représentés dans l’alphabet phonétique international. Si on sort des spectrogrammes, la plupart des visualisations des prononciations sont des systèmes d’alphabets comme celui-ci, recyclant des lettres et des symboles pour une utilisation phonétique.*
+
+**IMAGE 13**  
+*Un guide visuel pour reconnaître certaines syllabes dans les spectrogrammes.*
+
+**IMAGE 14**  
+*L’autre chose visuelle que font les phonéticiens, c’est placer les sons dans des espaces en deux dimensions. Ici, le triangle vocalique,  une répartition des voyelles dans le plan mise au point en 1781 par le médecin Christoph Friedrich Hellwag.*
+
+**IMAGE 15**  
+*Le musicien Venetian Snares a caché des photos de ses chats dans son album *Songs About My Cats* à l’aide d’un spectrogramme artificiel converti en piste audio.*
+
+## Du son à la musique
+
+**IMAGE 16**   
+*Le logiciel Celemony Melodyne Editor décompose note par note les enregistrements sonores d’une pièce musicale, générant ainsi une composition d’audiogrammes répartis sur une échelle chromatique. C’est un exemple de modélisation à mi-chemin entre la visualisation du son et la visualisation de la musique. Les notes peuvent être déplacées en hauteur, et régénérées en sons, ainsi ajustés.*
+
+Avant de passer à la visualisation de la musique, survolons un instant ce qui forme la musique d’un point de vue sonore. La musique peut être réduite à quatre composantes : hauteur, durée, intensité et timbre.
+
+La hauteur est définie par la fréquence de l’onde sonore. Plus le nombre d’oscillations sur un temps donné est élevé, plus le son est aigu, plus le nombre d’oscillations est faible, plus le son est grave. **— Image 17**
+
 En réalité, les hauteurs perçues sont souvent composées de plusieurs fréquences superposées, et peuvent même être extrapolées par l’oreille quand la fréquence fondamentale n’est pas présente.
 Certaines de ces fréquences, reconnues grâce à une suite harmonique mathématique et aux vibrations synchronisées qu’elles produisent dans les oreilles, ont été sélectionnées et nommées. Ce sont les notes, en tout cas celles historiquement associées à la musique occidentale.
+
 La durée est simplement la composante temps de la musique, formant le rythme, la longueur des notes et des silences. L’intensité est la puissance des ondes sonores, leur force, leur volume, leur nuance.
+
 Le timbre est plus difficile à rationaliser. Il décrit la sonorité d’un instrument, les caractéristiques sonores qui le différencient des autres, sa voix en quelque sorte. Il possède un ensemble de composantes, comme la brillance, le vibrato ou la texture sonore. C’est ce qui fait qu’un piano et qu’une guitare jouant la même note, avec la même durée et la même intensité, ne produisent pas le même son.
 
 Ça fait quatre variables à visualiser lorsqu’on veut représenter la musique.
 
-Visualiser la musique
+**IMAGE 17**  
+*Un son aigu formé par une fréquence élevée, un son grave formé par une fréquence faible.*  
+*Ci-dessous: Les fréquences en hertz définissant chaque note dans la troisième octave.*
+
+## Visualiser la musique
+
 L’une des raisons principale pour laquelle on visualise la musique est en vue de la reproduire. La transmission des morceaux entre musiciens, tant dans le temps que dans l’espace, implique la création de systèmes de notation permettant de représenter les pièces musicales sous une forme reproductible.
 
-REPRÉSENTATION du timbre
+### Représentation du timbre
+
 La plupart de ces langages graphiques s’intéresse à la hauteur, à la durée, et — dans une moindre mesure — à l’intensité. Le timbre, intrinsèque à chaque instrument, reste généralement à l’écart de ces visualisations.
+
 C’est une constatation que fait Adriano Abbado dans une thèse qu’il publie en 1988. Il remarque que la notion de timbre est constamment ignorée en musique occidentale, alors que c’est une composante importante dans les musiques d’autres cultures, comme dans les chants des moines tibétains qui se concentrent davantage sur les variations de timbre que sur les changements de hauteurs. Avec l’arrivée des synthétiseurs, cependant, la possibilité de façonner la sonorité d’instruments artificiels a redonné à la notion de timbre son importance.
 
+Il s’intéresse à la classification des timbres par Fred Lerdhal puis travaille enfin sur leur visualisation. C’est le projet *Dynamics*. — **Image 18**
 
-Il s’intéresse à la classification des timbres par Fred Lerdhal puis travaille enfin sur leur visualisation. C’est le projet Dynamics.  — IMAGE 18
 Pour retranscrire les différentes caractéristiques des timbres et leur richesses, il utilise des infographies 3D abstraites. Par exemples, les sons harmoniques sont associés à des formes lisses et les sons inharmoniques à des formes rugueuses. La forme, la couleur et la texture de ces objets tridimensionnels, ainsi que leur position dans l’espace, sont autant de variables qu’Abbado associe pour représenter le timbre.
-Les choix sont délibérément subjectifs : « Établir une méthode de correspondance rigide peut devenir une procédure mécanique qui limite le processus créatif et se trouve inévitablement répercutée dans l’œuvre finale. Je n’ai donc jamais analysé le spectre sonore avec une précision absolue, mais ai plutôt modélisé des objets se rapprochant au plus d’attributs auditifs perceptibles, applicables à un contexte visuel : rugosité, humidité, température, viscosité, spongiosité, granularité, opacité, et ainsi de suite. »
+
+Les choix sont délibérément subjectifs :
+> « Établir une méthode de correspondance rigide peut devenir une procédure mécanique qui limite le processus créatif et se trouve inévitablement répercutée dans l’œuvre finale. Je n’ai donc jamais analysé le spectre sonore avec une précision absolue, mais ai plutôt modélisé des objets se rapprochant au plus d’attributs auditifs perceptibles, applicables à un contexte visuel : rugosité, humidité, température, viscosité, spongiosité, granularité, opacité, et ainsi de suite. »
+
 Nous avons donc affaire à une visualisation qui se situe dans l’interprétation, plutôt que dans la représentation ou la notation.
-REPRÉSENTATION de
-la hauteur et DE LA durée
-Revenons sur deux autres composantes de la musique, la hauteur et la durée. Toutes deux sont des valeurs à une dimension, la musique réduite à ces deux caractéristiques pouvant ainsi être représentée en deux dimensions. Sur un axe, la hauteur, décrite en fréquences ou en notes ; Sur l’autre, la durée, en secondes ou en temps (pluriel, au sens musical).
-C’est de cette façon qu’est stockée la musique sur les bandes papiers perforées d’un orgue de Barbarie, par exemple. Les notes sont réparties en hauteur, actionnant des soufflets différents, et la durée s’étale en longueur, l’étendue réelle d’un temps dépendant de la vitesse à laquelle le musicien tourne la manivelle. Un piano mécanique fonctionne de manière similaire.  — IMAGE 19
+
+**IMAGE 18**  
+*Le timbre tel que représenté dans le projet *Dynamics*.*
+
+### Représentation de la hauteur et de la durée
+
+Revenons sur deux autres composantes de la musique, la hauteur et la durée. Toutes deux sont des valeurs à une dimension, la musique réduite à ces deux caractéristiques pouvant ainsi être représentée en deux dimensions. Sur un axe, la hauteur, décrite en fréquences ou en notes ; Sur l’autre, la durée, en secondes ou en temps (pluriel, au sens musical).
+
+C’est de cette façon qu’est stockée la musique sur les bandes papiers perforées d’un orgue de Barbarie, par exemple. Les notes sont réparties en hauteur, actionnant des soufflets différents, et la durée s’étale en longueur, l’étendue réelle d’un temps dépendant de la vitesse à laquelle le musicien tourne la manivelle. Un piano mécanique fonctionne de manière similaire. **— Image 19**
+
 Les perforations pour les orgues de Barbarie, si elles sont visibles et peuvent être qualifiées de visualisation, ne sont pourtant pas destinées à une lecture humaine.
+
 On retrouve cependant ce principe dans le projet débuté en 1974 par Stephen Malinowski. Frustré de la complexité des partitions traditionnelles, il tente de trouver une méthode pour visualiser des morceaux de musique de manière plus instinctive.
-Il représente un concerto de Brandenburg sur une bande de papier quadrillé de six mètres de long. Le principe est en tous points similaire à ceux des orgues de Barbarie, à part que Malinowski utilise également la couleur pour différencier les différents instruments de l’orchestre.  — IMAGE 20
-En 1981, un ami lui suggère de l’animer, mais le travail d’animation est très fastidieux. Jusqu’en 1985, il met alors au point un programme informatique répliquant le principe de sa bande de papier mais de manière automatisée : c’est la Music Animation Machine.  — IMAGE 21
+
+Il représente un concerto de Brandenburg sur une bande de papier quadrillé de six mètres de long. Le principe est en tous points similaire à ceux des orgues de Barbarie, à part que Malinowski utilise également la couleur pour différencier les différents instruments de l’orchestre. **— Image 20**
+
+En 1981, un ami lui suggère de l’animer, mais le travail d’animation est très fastidieux. Jusqu’en 1985, il met alors au point un programme informatique répliquant le principe de sa bande de papier mais de manière automatisée : c’est la *Music Animation Machine*. **— Image 21**
+
 Il y travaille encore aujourd’hui, produisant de nombreuses visualisations de morceaux qu’il distribue sous forme vidéo.
-Notation de la musique
+
+**IMAGE 19**  
+*La bande de papier perforée d’un orgue de Barbarie.*
+
+**IMAGE 20**  
+*À l’origine de la *MAM*, un concerto de Brandenburg sur une bande de papier.*
+
+**IMAGE 21**  
+*Portion de visualisation par la *Music Animation Machine* d’une pièce musicale.*
+
+### Notation de la musique
+
 Cependant, la visualisation de la musique reste essentiellement associée à sa notation. Pour coucher la musique sur papier, la transmettre et permettre à d’autres de l’interpréter, les musiciens ont assez tôt mis au point des systèmes permettant de l’écrire.
 En occident, on ne semble pas avoir retrouvé des notations par les peuples égyptiens, hébreux et chaldéens, malgré le développement avancé de leur culture musicale ; Les premier témoins attestés de notation musicale sont les notations grecques.
 À l’origine entièrement liées à des instruments spécifiques, tablatures sous forme textuelle indiquant davantage sur quelles cordes tirer que quelles notes jouer, elles ont prises en compte plus tardivement les notions de notes et de hauteur, d’abord en utilisant des lettres de l’alphabet, puis en développant des symboles spécifiques.
