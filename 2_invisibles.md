@@ -117,6 +117,4 @@ Les principes de visualisations du mouvement sont multiples et prennent en compt
 
 ##  Visualiser le son et la musique
 
-Il y a pas mal de choses à dire sur ces deux-là. Peut-être méritent-t’ils un chapitre entier et — par conséquent — un titre pleine page en corps soixante-quatre ?
-
-Oui, allez.
+Il y a pas mal de choses à dire sur ces deux-là. Peut-être méritent-t’ils un chapitre entier ? Oui, allez.
