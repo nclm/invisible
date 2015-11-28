@@ -114,3 +114,9 @@ Les principes de visualisations du mouvement sont multiples et prennent en compt
 
 **IMAGE N**  
 *Ce système de notation permet de retranscrire le langage des signes. Il s’agit de SignWriting, dévelloppé en 1974 par la danseuse Valerie Sutton après son travail sur DanceWriting. Chaque position des mains, mouvement des doigts et expression faciale y est représenté par un symbole unique.*
+
+##  Visualiser le son et la musique
+
+Il y a pas mal de choses à dire sur ces deux-là. Peut-être méritent-t’ils un chapitre entier et — par conséquent — un titre pleine page en corps soixante-quatre ?
+
+Oui, allez.
