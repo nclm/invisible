@@ -122,8 +122,8 @@ Il s’intéresse à la classification des timbres par Fred Lerdhal puis travail
 
 Pour retranscrire les différentes caractéristiques des timbres et leur richesses, il utilise des infographies 3D abstraites. Par exemples, les sons harmoniques sont associés à des formes lisses et les sons inharmoniques à des formes rugueuses. La forme, la couleur et la texture de ces objets tridimensionnels, ainsi que leur position dans l’espace, sont autant de variables qu’Abbado associe pour représenter le timbre.
 
-Les choix sont délibérément subjectifs :
-> « Établir une méthode de correspondance rigide peut devenir une procédure mécanique qui limite le processus créatif et se trouve inévitablement répercutée dans l’œuvre finale. Je n’ai donc jamais analysé le spectre sonore avec une précision absolue, mais ai plutôt modélisé des objets se rapprochant au plus d’attributs auditifs perceptibles, applicables à un contexte visuel : rugosité, humidité, température, viscosité, spongiosité, granularité, opacité, et ainsi de suite. »
+Les choix sont délibérément subjectifs :
+> « Établir une méthode de correspondance rigide peut devenir une procédure mécanique qui limite le processus créatif et se trouve inévitablement répercutée dans l’œuvre finale. Je n’ai donc jamais analysé le spectre sonore avec une précision absolue, mais ai plutôt modélisé des objets se rapprochant au plus d’attributs auditifs perceptibles, applicables à un contexte visuel : rugosité, humidité, température, viscosité, spongiosité, granularité, opacité, et ainsi de suite. »
 
 Nous avons donc affaire à une visualisation qui se situe dans l’interprétation, plutôt que dans la représentation ou la notation.
 
@@ -142,7 +142,7 @@ On retrouve cependant ce principe dans le projet débuté en 1974 par Stephen Ma
 
 Il représente un concerto de Brandenburg sur une bande de papier quadrillé de six mètres de long. Le principe est en tous points similaire à ceux des orgues de Barbarie, à part que Malinowski utilise également la couleur pour différencier les différents instruments de l’orchestre. **— Image 20**
 
-En 1981, un ami lui suggère de l’animer, mais le travail d’animation est très fastidieux. Jusqu’en 1985, il met alors au point un programme informatique répliquant le principe de sa bande de papier mais de manière automatisée : c’est la *Music Animation Machine*. **— Image 21**
+En 1981, un ami lui suggère de l’animer, mais le travail d’animation est très fastidieux. Jusqu’en 1985, il met alors au point un programme informatique répliquant le principe de sa bande de papier mais de manière automatisée : c’est la *Music Animation Machine*. **— Image 21**
 
 Il y travaille encore aujourd’hui, produisant de nombreuses visualisations de morceaux qu’il distribue sous forme vidéo.
 
@@ -158,30 +158,79 @@ Il y travaille encore aujourd’hui, produisant de nombreuses visualisations de 
 ### Notation de la musique
 
 Cependant, la visualisation de la musique reste essentiellement associée à sa notation. Pour coucher la musique sur papier, la transmettre et permettre à d’autres de l’interpréter, les musiciens ont assez tôt mis au point des systèmes permettant de l’écrire.
-En occident, on ne semble pas avoir retrouvé des notations par les peuples égyptiens, hébreux et chaldéens, malgré le développement avancé de leur culture musicale ; Les premier témoins attestés de notation musicale sont les notations grecques.
+
+En occident, on ne semble pas avoir retrouvé des notations par les peuples égyptiens, hébreux et chaldéens, malgré le développement avancé de leur culture musicale ; Les premier témoins attestés de notation musicale sont les notations grecques.
+
 À l’origine entièrement liées à des instruments spécifiques, tablatures sous forme textuelle indiquant davantage sur quelles cordes tirer que quelles notes jouer, elles ont prises en compte plus tardivement les notions de notes et de hauteur, d’abord en utilisant des lettres de l’alphabet, puis en développant des symboles spécifiques.
 
-IMAGE 22
-Aperçu d’un exemple de notation grecque sous forme d’alphabet de symboles spécifiques. L’emplacement des branches des glyphes principaux représentent la hauteur des notes, et les accentuations qui flottent au dessus de certaines notes indiquent leur durée. Il y a eu d’autres alphabets de notations similaires à l’Antiquité.
+**IMAGE 22**  
+*Aperçu d’un exemple de notation grecque sous forme d’alphabet de symboles spécifiques. L’emplacement des branches des glyphes principaux représentent la hauteur des notes, et les accentuations qui flottent au dessus de certaines notes indiquent leur durée. Il y a eu d’autres alphabets de notations similaires à l’Antiquité.*
 
 La notation musicale a continué à évoluer au cours des siècles, influencée par l’évolution des styles musicaux et des instruments successifs, connu plusieurs réformes, s’éloignant progressivement d’un système d’alphabet pour devenir un vrai système graphique, jusqu’à atteindre celle qu’elle est aujourd’hui. 
 
-Si on n’entrera pas ici dans les détails de la notation contemporaine, un livre de solfège se révélerait bien plus expert en la matière, faisons l’inventaire non-exhaustif des formes, symboles et autres caractéristiques utilisés aujourd’hui pour mettre à l’écrit les différentes composantes de la musique :
+Si on n’entrera pas ici dans les détails de la notation contemporaine, un livre de solfège se révélerait bien plus expert en la matière, faisons l’inventaire non-exhaustif des formes, symboles et autres caractéristiques utilisés aujourd’hui pour mettre à l’écrit les différentes composantes de la musique :
 
-IMAGE 23
-Quelques dispositifs graphiques
-et textuels utilisés aujourd’hui
-pour noter les composantes
-de la musique : hauteur, durée, intensité et timbre. 
+**IMAGE 23**  
+*Quelques dispositifs graphiques et textuels utilisés aujourd’hui pour noter les composantes de la musique : hauteur, durée, intensité et timbre.*
 
 C’est une notation assez complexe. De nombreux mécanismes d’écritures différents y sont combinés pour marquer tous les aspects nécessaires pour reproduire la musique, mais on voit que cette notation, construite progressivement, par évolution, sur plusieurs siècles, est un amalgame de notations passées. Elle n’est pas non plus entièrement graphique, impliquant encore l’utilisation de mots, souvent abrégés, pour préciser certains aspects.
 
-
 Plusieurs propositions pour transformer la notation musicale établie ont été publiées, bien que pas ou peu adoptées.
-Certaines sont modérées, et offrent une évolution logique de la notation existante, comme celle proposée par Edward V. Huntington dans The Scientific Monthly en 1920. La majeure réforme de cette proposition est la rationalisation de la notation de la hauteur, en supprimant les symboles marquant les dièses et les bémols, remplacés par une nouvelle répartition verticale des notes. Tous les tons et demi-tons sont placés sur la portée, et autant de portées que d’octaves nécessaires courent en parallèle.
 
-IMAGE 24
-Une portion des Valses nobles et sentimentales de Maurice Ravel, visualisée en notation habituelle puis avec la notation rationalisée de Edward V. Huntington.
-De manière plus contemporaine cependant, on retrouve les travaux parmi les plus intéressants concernant la notation musicale dans ceux collectés par John Cage dans son anthologie intitulée Notations, publiée en 1969 — et de façon similaire par Theresa Sauer dans son livre Notation 21, sorti en 2009 pour le quarantième anniversaire de la collection de John Cage.
-Cage a recueilli les travaux de 165 compositeurs préférant utiliser leurs propres systèmes de notation pour élaborer leurs pièces. Le livre Notations propose ainsi un tour d’horizon assez varié des notations alternatives de la musique, s’éloignant généralement davantage de la notation classique que les simples améliorations comme celles d’Huntington.
+Certaines sont modérées, et offrent une évolution logique de la notation existante, comme celle proposée par Edward V. Huntington dans *The Scientific Monthly* en 1920. La majeure réforme de cette proposition est la rationalisation de la notation de la hauteur, en supprimant les symboles marquant les dièses et les bémols, remplacés par une nouvelle répartition verticale des notes. Tous les tons et demi-tons sont placés sur la portée, et autant de portées que d’octaves nécessaires courent en parallèle.
+
+**IMAGE 24**  
+*Une portion des *Valses nobles et sentimentales* de Maurice Ravel, visualisée en notation habituelle puis avec la notation rationalisée de Edward V. Huntington.*
+
+**IMAGE 25**  
+*De façon moins universelle, il y a la visualisation par tablature. La tablature est un nom générique pour désigner un système de notation adressé spécifiquement à un instrument en particulier. Ici, une tablature pour vihuela, un instrument proche du luth, qui montre les cordes et les frettes où le musicien doit positionner ses doigts. Il existe des tablatures pour beaucoup d’instruments à cordes, mais aussi pour accordéon, harmonica et batterie.*
+
+De manière plus contemporaine cependant, on retrouve les travaux parmi les plus intéressants concernant la notation musicale dans ceux collectés par John Cage dans son anthologie intitulée *Notations*, publiée en 1969 — et de façon similaire par Theresa Sauer dans son livre *Notation 21*, sorti en 2009 pour le quarantième anniversaire de la collection de John Cage.
+
+Cage a recueilli les travaux de 165 compositeurs préférant utiliser leurs propres systèmes de notation pour élaborer leurs pièces. Le livre *Notations* propose ainsi un tour d’horizon assez varié des notations alternatives de la musique, s’éloignant généralement davantage de la notation classique que les simples améliorations comme celles d’Huntington.
+
 Plutôt que de faire courir ce texte davantage, les pages suivantes proposent une sélection de fac-similés de notations graphiques de la musique, plusieurs étant écrites par des compositeurs présentés dans les deux livres sus-cités.
+
+**IMAGES 26 À 28**  
+*Pour commencer, un peu du travail de Cage. Compositeur non-conformiste, les travaux de Cage demandent souvent une part de création et d’interprétation pour les musiciens. Dans les partitions présentées ici, *Concert for Piano and Orchestra*, si on reconnaît une base de notation traditionnelle, la méthode de composition singularise la forme finale. Inspiré par la pratique de certains peintres, Cage utilise ici les imperfections du papier pour tracer les notes sur les portées. Les ensembles créés forment parfois des boucles et, sur les soixante trois pages de la partition, il n’y a pas d’ordre général : tous les modules peuvent être recombinés par les musiciens, le chef d’orchestre jouant un rôle d’horloge.*
+
+**IMAGE 29**  
+**Fontana Mix* (1958) est composé de vingt feuilles transparentes : sur certaines sont imprimés des points, sur d’autres des lignes ondulées, et deux présentent respectivement une ligne droite et une grille rectangulaire. L’objet est accompagné de quatre bandes magnétiques sur lesquelles sont enregistrées un grand nombre de sons successifs répartis en catégories : sons de la ville, sons de la campagne, sons électroniques, sons d’instruments, sons de voix, sons discrets. En superposant les calques, *Fontana Mix* devient un outil déterminant quels sons jouer, sur combien de centimètres, à quel volume, etc.*  
+*Pour Cage comme pour d’autres compositeurs utilisant des notations expérimentales ou alternatives, la partition dépasse le simple système pour mettre à l’écrit la musique, mais est souvent le catalyseur initial pour la créer. On passe même parfois davantage du côté de la mise en son du visuel que de la visualisation du son.*
+
+**IMAGES 30 À 32**  
+*Le compositeur Krzysztof Penderecki utilise des systèmes de notation sur mesure pour ses compositions, ici différents mouvements pour cordes dans *Threnody to the Victims of Hiroshima* (1960). Les indications précisent notamment de frapper les flancs des instruments ou bien de jouer l’archet sous les cordes.*
+
+**IMAGES 33 À 35**  
+*Daniel Schnee conçoit également des tablatures très spécifiques, cette fois pour saxophone. Musicien de jazz et artiste expressionniste, il relie ses deux pratiques par ses notations. Il explique que son système visualise le modèle mental qu’il met en œuvre pour jouer de son instrument. Il s’agit donc de notations très personnelles et subjectives, qui ne pourraient probablement pas être relues par d’autres musiciens.*
+
+**IMAGE 36**  
+*R. Haubenstock-Ramati, *Concerto a tre*, 1973*
+
+**IMAGE 37**  
+*Will Redman, *Book*, 2013*
+
+**IMAGE 38**  
+*Hans-Christoph Steiner, *Solitude*, 2004. Cette partition graphique décrit le collage d’échantillons extraits d’un morceau de Duke Ellington. Le temps s’écoule de gauche à droite, et chaque couleur correspond à différents samples audio. Les positions et variations de forme des éléments graphiques déterminent la vitesse de lecture des échantillons, leur hauteur, leur amplification, quelles parties sont lues à quels moment. Si la partition pourrait dans l’absolu être lue par un musicien comme une notice pour assembler et altérer les samples, Steiner a dévelloppé un programme interprétant le visuel pour monter automatiquement la composition.*
+
+**IMAGE 39**  
+*Une page de *Pavilion* par Steve Roden (2005). L’artiste s’est inspiré des plans architecturaux pour la Serpentine Gallery de Londres. Le musicien peut suivre plusieurs itinéraires sur la grille, les couleurs correspondant aux notes peintes sur un glockenspiel en jouet.*
+
+**IMAGE 40**  
+*Graciela Castillo, *El Pozo* *
+
+**IMAGE 41**  
+*Udo Kasemets, *Timepiece For A Solo Performe* *
+
+En soi, la notation n’est pas une œuvre, mais le vecteur permettant de transmettre l’œuvre. Si la notation traditionnelle est très rationnelle, on peut arguer que dans les cas de certaines de ces quelques notations, la part de subjectivité et de libre interprétation ou bien leur mécanique conceptuelle font qu’elles prennent part intégrante de l’œuvre, voire en sont la principale partie. C’est une situation ou la visualisation du phénomène (mettons qu’on peut appeler la musique phénomène) et le phénomène lui-même ne font presque plus qu’un.
+
+Pour finir, une part de la visualisation de la musique où le subjectif et l’émotionnel prend une place bien plus importante.
+
+### Interprétation de la musique
+
+Si plusieurs travaux précédents étaient en partie des interprétations, ils prenaient des formes proches de la représentation ou de la notation.
+
+Mais c’est dans l’art où l’interprétation de la musique est la plus manifeste. Les *compositions* de Vassily Kandinsky, les films de Oskar Fischinger, les *fugues* de František Kupka ou de Paul Klee sont autant de tentatives d’interpréter des pièces musicales invisibles sous des formes visibles. De manière encore plus perceptive ou instinctive, les tableaux d’artistes synesthètes entrent aussi dans cette série.
+
+**IMAGE 42**  
+*Paul Klee, *Fuge in Rot* (1922). Klee s’intéresse aux liens entre musique et peinture dès 1910. Il trouve que le rythme et la structure sont des notions que l’on retrouve dans les deux arts. Cette fugue est une composition polyphonique, où l’écoulement du temps est représenté par l’émergence graduelle des formes de l’obscur vers le clair.*
