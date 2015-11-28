@@ -95,13 +95,13 @@ La danse est également dans sa pratique artistique un domaine où la transcript
 Les principes de visualisations du mouvement sont multiples et prennent en compte des variables et une forme différentes selon leur finalité. Il y a des systèmes sur mesure pour chaque usage. **— Image N**
 
 **IMAGE H**  
-*Dans *Nu descendant un escalier n° 2*, Marcel Duchamp met en image le mouvement en dépeignant par superposition ses étapes successives, à la manière d’une chronophotographie.*
+*Dans *Nu descendant un escalier n°2*, Marcel Duchamp met en image le mouvement en dépeignant par superposition ses étapes successives, à la manière d’une chronophotographie.*
 
 **IMAGE I**  
 *La représentation du mouvement est beaucoup utilisée en éthologie. Sous sa forme la plus simple, un simple tracé de trajectoires, sans facteur temps, peut permettre de dégager les motifs du comportement animal. Ici, c’était prévisible, la visualisation des déplacements d’une souris dans une boîte montre à quel point elle s’intéresse à sa mangeoire.*
 
 **IMAGE J**  
-*Notation graphique de La Cachucha, par Friedrich Albert Zorn. C’est une notation partiellement figurative, partiellement symbolique, et synchronisée avec une notation musicale.*
+*Notation graphique de *La Cachucha*, par Friedrich Albert Zorn. C’est une notation partiellement figurative, partiellement symbolique, et synchronisée avec une notation musicale.*
  
 **IMAGE K**  
 *La visualisation de la danse peut être très simple, comme dans ce système de symboles pour noter les pas du tango.*
@@ -114,9 +114,3 @@ Les principes de visualisations du mouvement sont multiples et prennent en compt
 
 **IMAGE N**  
 *Ce système de notation permet de retranscrire le langage des signes. Il s’agit de SignWriting, dévelloppé en 1974 par la danseuse Valerie Sutton après son travail sur DanceWriting. Chaque position des mains, mouvement des doigts et expression faciale y est représenté par un symbole unique.*
-
-## Visualiser le son et la musique
-
-Il y a pas mal de choses à dire sur ces deux-là. Peut-être méritent-t’ils un chapitre entier et — par conséquent — un titre pleine page en corps soixante-quatre ?
-
-Oui, allez.
