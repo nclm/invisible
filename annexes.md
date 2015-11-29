@@ -111,7 +111,7 @@ Concerto a tre, R. Haubenstock-Ramati, Édition Wilhelm Hansen, bnf.fr.
 Book, Will Redman, willredman.com.
 * [musique-solitude-steiner.jpg](images/musique-solitude-steiner.jpg)  
 Solitude, Hans-Christoph Steiner, at.or.at.
-* [.jpg](images/.jpg)  
+* [musique-pavilion-roden-1.jpg](images/musique-pavilion-roden-1.jpg)  
 Pavilion, Steve Roden, npr.org.
 * [.jpg](images/.jpg)  
 El Pozo, Graciela Castillo, diagonalthoughts.com.
