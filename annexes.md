@@ -18,51 +18,52 @@ Paul Ekman, bostonmagazine.com.
 Human Ethology, Irenäus Eibl-Eibesfeldt, page 118.
 * [emotions-emoticons-facebook.jpg](images/emotions-emoticons-facebook.jpg)  
 facebook.com.
-* [.jpg](images/.jpg)  
+* [mouvement-nu-escalier-duchamp.jpg](images/mouvement-nu-escalier-duchamp.jpg)  
 Nu descendant un escalier n° 2, Marcel Duchamp, philamuseum.org.
-* [.jpg](images/.jpg)  
-Computer-Aided Ethology, Michael Spratt,michael-spratt.com.
-* [.jpg](images/.jpg)  
+* [mouvement-souris-spratt.jpg](images/mouvement-souris-spratt.jpg)  
+Computer-Aided Ethology, Michael Spratt, michael-spratt.com.
+* [mouvement-cachucha-zorn.jpg](images/mouvement-cachucha-zorn.jpg)  
 Zorn_Cachucha.jpg, Huster, GFDL, wikimedia.org.
-* [.jpg](images/.jpg)  
+* [mouvement-tango-bodirsky.jpg](images/mouvement-tango-bodirsky.jpg)  
 A Notation System for Tango, Manuel Bodirsky.
-* [.jpg](images/.jpg)  
+* [mouvement-himbas-eibl-eibesfeldt.jpg](images/mouvement-himbas-eibl-eibesfeldt.jpg)  
 Human Ethology, Irenäus Eibl-Eibesfeldt, page 130.
-* [.jpg](images/.jpg)  
+* [mouvement-labanotation.jpg](images/mouvement-labanotation.jpg)  
 Labanotation, tumblr.com.
-* [.jpg](images/.jpg)  
+* [mouvement-signwriting-silence-lancaster-pell.jpg](images/mouvement-signwriting-silence-lancaster-pell.jpg)  
 Silence, SignWriting, Denny Lancaster, Tini Pell, faeriekeeper.net.
-* [.jpg](images/.jpg)  
+* [vent.jpg](images/vent.jpg)  
 NOAA/NESDIS/Office of Research and Applications, Météorologie élémentaire, astrosurf.com.
-* [.jpg](images/.jpg)  
+* [son-audiogramme-columbia.jpg](images/son-audiogramme-columbia.jpg)  
 Digital Representation of Sound, Figure 2.3, music.columbia.edu.
-* [.jpg](images/.jpg)  
+* [son-fourier.jpg](images/son-fourier.jpg)  
 The Perception of Musical Tones, Figure 1, neuro.uoregon.edu.
-* [.jpg](images/.jpg)  
+* [son-oscilloscope-rippey.jpg](images/son-oscilloscope-rippey.jpg)  
 Oscilli_AC_hum_on_sound_leak.jpg, Rippey574, CC-by, wikimedia.org.
-* IMAGE 5  
+* [son-microsillon-institute-optics.jpg](images/son-microsillon-institute-optics.jpg)  
 The Institute of Optics, Rochester.
-* [.jpg](images/.jpg)  
+* [son-optical-soundtrack-rotareneg.jpg](images/son-optical-soundtrack-rotareneg.jpg)  
 35mm_film_audio_macro.jpg, Rotareneg, CC-by-sa + GFDL,  wikimedia.org.
-* [.jpg](images/.jpg)  
+* [son-upic-xenakis.jpg](images/son-upic-xenakis.jpg)  
 Mycènes Alpha, Iannis Xenakis, umatic.nl.
-* [.jpg](images/.jpg)  
+* [son-evil-eye-indianen.jpg](images/son-evil-eye-indianen.jpg)  
 The Evil Eye, Indianen, indianen.be.
-* [.jpg](images/.jpg)  
+* [son-spectrogramme-columbia.jpg](images/son-spectrogramme-columbia.jpg)  
 Digital Representation of Sound, Figure 2.3, music.columbia.edu.
-* [.jpg](images/.jpg)  
+* [son-spectrogramme-3d-frey.jpg](images/son-spectrogramme-3d-frey.jpg)  
 Spectrogram.png, Raphael Frey, CC-by-sa + GFDL, wikimedia.org.
-* [.jpg](images/.jpg)  
+* [son-spectrogramme-merle-dbfls.jpg](images/son-spectrogramme-merle-dbfls.jpg)  
 Sonagramme merle bleu.gif, Dbfls, domaine public, wikimedia.org.
-* [.jpg](images/.jpg)  
+* [son-phonetique-spectrogrammes-hagiwara.jpg](images/son-phonetique-spectrogrammes-hagiwara.jpg)  
 How do I read a spectrogram?, Figure 8, Robert Hagiwara, umanitoba.ca.
-* [.jpg](images/.jpg)  
-Référence API : oxfordlearners dictionaries.com, Fonte API : Monaco.
-* [.jpg](images/.jpg)  
+* [son-phonetique-api.jpg](images/son-phonetique-api.jpg)  
+Référence API : oxfordlearners.dictionaries.com.  
+Fonte API : Monaco.
+* [son-phonetique-guide-russell.jpg](images/son-phonetique-guide-russell.jpg)  
 Identifying sounds in spectrograms, Kevin Russell, umanitoba.ca.
-* [.jpg](images/.jpg)  
+* [son-phonetique-triangle-vocalique-wikipedia.jpg.jpg](images/son-phonetique-triangle-vocalique-wikipedia.jpg.jpg)  
 Modèle:Palette_Voyelles, CC-by-sa, fr.wikipedia.org.
-* [.jpg](images/.jpg)  
+* [son-spectrogramme-cats-snares.jpg](images/son-spectrogramme-cats-snares.jpg)  
 Look, Venetian Snares, bastwood.com.
 * [.jpg](images/.jpg)  
 Celemony Melodyne Editor 2, amazona.de.
