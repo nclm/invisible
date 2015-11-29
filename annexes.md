@@ -77,7 +77,7 @@ Lochkarte_Tanzorgel.jpg, Stefan Kühn, CC-by-sa + GFDL, wikimedia.org.
 Origin of bar-graph score, Music Animation Machine, youtube.com.
 * [musique-mam-brandenburg.jpg](images/musique-mam-brandenburg.jpg)  
 Brandenburg Concerto #4, third movement, Music Animation Machine, musanim.com.
-* [.jpg](images/.jpg)  
+* [musique-notation-antique.jpg](images/musique-notation-antique.jpg)  
 The Story of Notation, C.F. Abdy Williams.
 * [.jpg](images/.jpg)  
 Fonte de Lilypond, via wikimedia.org. Fonte Gonville, chiark.greenend.org.uk/~sgtatham/gonville/  
