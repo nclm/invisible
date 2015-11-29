@@ -71,7 +71,7 @@ Celemony Melodyne Editor 2, amazona.de.
 Contours ondulés InDesign.
 * [musique-dynamics-abbado.jpg.jpg](images/musique-dynamics-abbado.jpg.jpg)  
 Perceptual Correspondences of Abstract Animation and Synthetic Sound, Figure 8, Final Sequence, Adriano Abbado.
-* [.jpg](images/.jpg)  
+* [musique-orgue-barbarie-kuhn.jpg.jpg](images/musique-orgue-barbarie-kuhn.jpg.jpg)  
 Lochkarte_Tanzorgel.jpg, Stefan Kühn, CC-by-sa + GFDL, wikimedia.org.
 * [.jpg](images/.jpg)  
 Origin of bar-graph score, Music Animation Machine, youtube.com.
