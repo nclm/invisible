@@ -52,14 +52,27 @@ S’il y a des gens qui seraient intéressés pour visualiser les saveurs et les
 
 Si les deux sens précédents finissent par être moulinés dans le cerveau, qu’en est-il des phénomènes qui y sont créés directement ? Les idées, ou bien les émotions ?
 
-D’un point scientifique et médical, le neurologue Antonio Damasio a démontré dans ses ouvrages comment des émotions comme la tristesse, la colère la joie ou la peur peuvent être associés à des motifs particuliers provoqués dans des régions spécifiques du cerveau. Or, on dispose depuis quelques temps de techniques d’imagerie cérébrale qui permettent de visualiser ce qu’il s’y passe. L’imagerie par résonance magnétique (IRM) ou la tomographie par émission de positons (TEP) sont des exemples de dispositifs qui permettent de générer des visualisations des parties cervicales en activité. On peut donc obtenir des visualisations correspondant à différentes émotions. **— Image C**
+D’un point scientifique et médical, le neurologue Antonio Damasio a démontré dans ses ouvrages comment des émotions comme la tristesse, la colère la joie ou la peur peuvent être associés à des motifs particuliers provoqués dans des régions spécifiques du cerveau. Or, on dispose depuis quelques temps de techniques d’imagerie cérébrale qui permettent de visualiser ce qu’il s’y passe. L’imagerie par résonance magnétique (IRM) ou la tomographie par émission de positons (TEP) sont des exemples de dispositifs qui permettent de générer des visualisations des parties cervicales en activité. On peut donc obtenir des visualisations correspondant à différentes émotions.
 
-Dans l’art, la représentation des émotions est chose courante. Si ce n’est pas les émotions ressenties par les personnages d’un scène dépeinte, un œuvre peut se faire allégorie même d’une émotion. **— Image D**
+![](images/emotions-irm-tep-damasio.jpg)  
+*IRM et TEP combinés, visualisant l’activité cérébrale lors de la joie, la dépression, l’anxiété et l’irritation.*
 
-Mais hors des visualisations artificielles, on est aussi équipé d’un dispositif permettant de retranscrire instinctivement et visuellement, quoi que partiellement, nos émotions : le visage. L’idée que les expressions faciales soient une manifestation universelle des émotions ressenties vient de Charles Darwin, mais a été largement diffusé par les travaux réalisés par Paul Ekman au vingtième siècle. Ses recherches ravivent le domaine de la science des émotions et va jusqu’à intéresser les enquêteurs des services secrets qui trouvent dans l’analyse des micro-expressions une méthode pour passer à travers les mensonges dans les interrogatoires. **— Image E**
+Dans l’art, la représentation des émotions est chose courante. Si ce n’est pas les émotions ressenties par les personnages d’un scène dépeinte, un œuvre peut se faire allégorie même d’une émotion.
+
+![](images/emotions-cri-munch.jpg)  
+*Le Cri, de Edvard Munch. L’artiste se décrit « tremblant d’anxiété » lorsque l’idée lui vint.*
+
+Mais hors des visualisations artificielles, on est aussi équipé d’un dispositif permettant de retranscrire instinctivement et visuellement, quoi que partiellement, nos émotions : le visage. L’idée que les expressions faciales soient une manifestation universelle des émotions ressenties vient de Charles Darwin, mais a été largement diffusé par les travaux réalisés par Paul Ekman au vingtième siècle. Ses recherches ravivent le domaine de la science des émotions et va jusqu’à intéresser les enquêteurs des services secrets qui trouvent dans l’analyse des micro-expressions une méthode pour passer à travers les mensonges dans les interrogatoires.
+
+![](images/emotions-visages-ekman.jpg)  
+*Les expressions type identifiées par Ekman pour ses recherches : colère, mépris, dégoût, surprise, tristesse, joie et peur.*
 
 Même si l’universalité de ses travaux sont désormais critiquée, notamment par la professeure de psychologie Lisa Barrett, qui décrit comme les recherches sur lesquelles se fondaient les résultats d’Ekman étaient biaisées, il reste qu’émotions et expressions semblent liées.
-Mais comment les représenter ? Il existe un système de notation, facial action coding system, non-graphique, pour coder les expressions du visage, dévelloppé par Ekman et Wallace Friesen dès 1971 d’après les travaux de l’anatomiste Carl-Herman Hjortsjö. FACS permet de décrire les contractions et décontractions des muscles du visage en utilisant des lettres et des chiffres. Ainsi on peut coder un visage stéréotype de la surprise par 1+2+5B+26 ou un visage exprimant le mépris par R12A+R14A. Si ce n’est pas une notation visuelle, elle le devient lorsqu’on la prend en compte à travers le temps. **— Image F**
+
+Mais comment les représenter ? Il existe un système de notation, facial action coding system, non-graphique, pour coder les expressions du visage, dévelloppé par Ekman et Wallace Friesen dès 1971 d’après les travaux de l’anatomiste Carl-Herman Hjortsjö. FACS permet de décrire les contractions et décontractions des muscles du visage en utilisant des lettres et des chiffres. Ainsi on peut coder un visage stéréotype de la surprise par *1+2+5B+26* ou un visage exprimant le mépris par *R12A+R14A*. Si ce n’est pas une notation visuelle, elle le devient lorsqu’on la prend en compte à travers le temps.
+
+![](images/emotions-facs-eibl-eibesfeldt.jpg)  
+*Une salutation par un haussement des sourcils accompagné d’un sourire et d’un hochement de tête, visualisée dans le temps avec la notation FACS.*
 
 Une note rapide sur les émoticônes, représentations typographiques des expressions faciales, et donc des émotions. Si l’idée de dessiner des visages avec des caractères typographiques apparaît dès le dix-neuvième siècle, c’est leur réinvention par Scott Fahlman en 1982 qui semble être le mème à l’origine de leur utilisation massive aujourd’hui :
 
@@ -67,19 +80,7 @@ Une note rapide sur les émoticônes, représentations typographiques des expres
 
 écrivit-il sur le forum de l’université de Carnegie Mellon. **— Image G**
 
-**IMAGE C**  
-*IRM et TEP combinés, visualisant l’activité cérébrale lors de la joie, la dépression, l’anxiété et l’irritation.*
-
-**IMAGE D**  
-*Le Cri, de Edvard Munch. L’artiste se décrit « tremblant d’anxiété » lorsque l’idée lui vint.*
-
-**IMAGE E**  
-*Les expressions type identifiées par Ekman pour ses recherches : colère, mépris, dégoût, surprise, tristesse, joie et peur.*
-
-**IMAGE F**  
-*Une salutation par un haussement des sourcils accompagné d’un sourire et d’un hochement de tête, visualisée dans le temps avec la notation FACS.*
-
-**IMAGE G**  
+![](images/emotions-emoticons-facebook.jpg)  
 *Les émoticônes illustrées d’aujourd’hui, visualisations picturales de visualisations typographiques de visualisations faciales des émotions.*
 
 ## Visualiser le mouvement
