@@ -8,114 +8,114 @@
 Notation musicale, auteur inconnu. Titre composé en Nanami.
 * [odeur-citronellol-steffen.jpg](images/odeur-citronellol-steffen.jpg)  
 Citronellol_enantiomers.svg, Steffen 962, domaine public, wikimedia.org.
-* [](images/)  
+* [emotions-irm-tep-damasio.jpg](images/emotions-irm-tep-damasio.jpg)  
 Dr. Hanna Damasio, New York Times Magazine, 7 mai 2000.
-* [](images/)  
+* [emotions-cri-munch.jpg](images/emotions-cri-munch.jpg)  
 Der Schrei der Natur, Edvard Munch, chasingart.com.
-* [](images/)  
+* [emotions-visages-ekman.jpg](images/emotions-visages-ekman.jpg)  
 Paul Ekman, bostonmagazine.com.
-* [](images/)  
+* [emotions-facs-eibl-eibesfeldt.jpg](images/emotions-facs-eibl-eibesfeldt.jpg)  
 Human Ethology, Irenäus Eibl-Eibesfeldt, page 118.
-* [](images/)  
+* [emotions-emoticons-facebook.jpg](images/emotions-emoticons-facebook.jpg)  
 facebook.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Nu descendant un escalier n° 2, Marcel Duchamp, philamuseum.org.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Computer-Aided Ethology, Michael Spratt,michael-spratt.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Zorn_Cachucha.jpg, Huster, GFDL, wikimedia.org.
-* [](images/)  
+* [.jpg](images/.jpg)  
 A Notation System for Tango, Manuel Bodirsky.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Human Ethology, Irenäus Eibl-Eibesfeldt, page 130.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Labanotation, tumblr.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Silence, SignWriting, Denny Lancaster, Tini Pell, faeriekeeper.net.
-* [](images/)  
+* [.jpg](images/.jpg)  
 NOAA/NESDIS/Office of Research and Applications, Météorologie élémentaire, astrosurf.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Digital Representation of Sound, Figure 2.3, music.columbia.edu.
-* [](images/)  
+* [.jpg](images/.jpg)  
 The Perception of Musical Tones, Figure 1, neuro.uoregon.edu.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Oscilli_AC_hum_on_sound_leak.jpg, Rippey574, CC-by, wikimedia.org.
 * IMAGE 5  
 The Institute of Optics, Rochester.
-* [](images/)  
+* [.jpg](images/.jpg)  
 35mm_film_audio_macro.jpg, Rotareneg, CC-by-sa + GFDL,  wikimedia.org.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Mycènes Alpha, Iannis Xenakis, umatic.nl.
-* [](images/)  
+* [.jpg](images/.jpg)  
 The Evil Eye, Indianen, indianen.be.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Digital Representation of Sound, Figure 2.3, music.columbia.edu.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Spectrogram.png, Raphael Frey, CC-by-sa + GFDL, wikimedia.org.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Sonagramme merle bleu.gif, Dbfls, domaine public, wikimedia.org.
-* [](images/)  
+* [.jpg](images/.jpg)  
 How do I read a spectrogram?, Figure 8, Robert Hagiwara, umanitoba.ca.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Référence API : oxfordlearners dictionaries.com, Fonte API : Monaco.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Identifying sounds in spectrograms, Kevin Russell, umanitoba.ca.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Modèle:Palette_Voyelles, CC-by-sa, fr.wikipedia.org.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Look, Venetian Snares, bastwood.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Celemony Melodyne Editor 2, amazona.de.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Contours ondulés InDesign.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Perceptual Correspondences of Abstract Animation and Synthetic Sound, Figure 8, Final Sequence, Adriano Abbado.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Lochkarte_Tanzorgel.jpg, Stefan Kühn, CC-by-sa + GFDL, wikimedia.org.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Origin of bar-graph score, Music Animation Machine, youtube.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Brandenburg Concerto #4, third movement, Music Animation Machine, musanim.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 The Story of Notation, C.F. Abdy Williams.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Fonte de Lilypond, via wikimedia.org. Fonte Gonville, chiark.greenend.org.uk/~sgtatham/gonville/  
 Fonte IM FELL DW Pica, iginomarini.com/fell/  
 Music Notation and Terminology, Karl W. Gehrkens, gutenberg.org.  
 Légendes composées en Ingleby.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Valses nobles et sentimentales, Edward V. Huntington, The Scientific Monthly.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Vihuela-Tab_Fuenllana_1554.jpg, Miguel de Fuenllana, domaine public, wikimedia.org.
-* [](images/)  
-[](images/)  
-[](images/)  
+* [.jpg](images/.jpg)  
+[.jpg](images/.jpg)  
+[.jpg](images/.jpg)  
 Concert for Piano and Orchestra, John Cage, Dancers on a Plane, Susan Sontag.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Fontana Mix, John Cage, mlkshk.com.
-* [](images/)  
-[](images/)  
-[](images/)  
+* [.jpg](images/.jpg)  
+[.jpg](images/.jpg)  
+[.jpg](images/.jpg)  
 Threnody to the Victims of Hiroshima, Krzysztof Penderecki, aggregat456.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Chollobhat, Daniel Schnee, chollobhat.wordpress.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 The Apocalypse of Solomon, Daniel Schnee, chollobhat.wordpress.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Gakufu, Daniel Schnee, chollobhat.wordpress.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Concerto a tre, R. Haubenstock-Ramati, Édition Wilhelm Hansen, bnf.fr.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Book, Will Redman, willredman.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Solitude, Hans-Christoph Steiner, at.or.at.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Pavilion, Steve Roden, npr.org.
-* [](images/)  
+* [.jpg](images/.jpg)  
 El Pozo, Graciela Castillo, diagonalthoughts.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Timepiece For A Solo Performer, Udo Kasemets, diagonalthoughts.com.
-* [](images/)  
+* [.jpg](images/.jpg)  
 Fuge in Rot, Paul Klee.
 
 ## Références
