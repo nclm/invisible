@@ -65,7 +65,7 @@ Identifying sounds in spectrograms, Kevin Russell, umanitoba.ca.
 Modèle:Palette_Voyelles, CC-by-sa, fr.wikipedia.org.
 * [son-spectrogramme-cats-snares.jpg](images/son-spectrogramme-cats-snares.jpg)  
 Look, Venetian Snares, bastwood.com.
-* [.jpg](images/.jpg)  
+* [son-musique-celemony-melodyne.jpg.jpg](images/son-musique-celemony-melodyne.jpg.jpg)  
 Celemony Melodyne Editor 2, amazona.de.
 * [.jpg](images/.jpg)  
 Contours ondulés InDesign.
