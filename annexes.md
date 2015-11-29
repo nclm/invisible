@@ -67,7 +67,7 @@ Modèle:Palette_Voyelles, CC-by-sa, fr.wikipedia.org.
 Look, Venetian Snares, bastwood.com.
 * [son-musique-celemony-melodyne.jpg.jpg](images/son-musique-celemony-melodyne.jpg.jpg)  
 Celemony Melodyne Editor 2, amazona.de.
-* [.jpg](images/.jpg)  
+* [son-musique-frequences.jpg.jpg](images/son-musique-frequences.jpg.jpg)  
 Contours ondulés InDesign.
 * [.jpg](images/.jpg)  
 Perceptual Correspondences of Abstract Animation and Synthetic Sound, Figure 8, Final Sequence, Adriano Abbado.
