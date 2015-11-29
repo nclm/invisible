@@ -239,35 +239,33 @@ Plutôt que de faire courir ce texte davantage, voici une sélection de fac-simi
 **ꜛ**
 *Pour commencer, un peu du travail de Cage. Compositeur non-conformiste, les travaux de Cage demandent souvent une part de création et d’interprétation pour les musiciens. Dans les partitions présentées ici, *Concert for Piano and Orchestra*, si on reconnaît une base de notation traditionnelle, la méthode de composition singularise la forme finale. Inspiré par la pratique de certains peintres, Cage utilise ici les imperfections du papier pour tracer les notes sur les portées. Les ensembles créés forment parfois des boucles et, sur les soixante trois pages de la partition, il n’y a pas d’ordre général : tous les modules peuvent être recombinés par les musiciens, le chef d’orchestre jouant un rôle d’horloge.*
 
-![](images/.jpg)  
+![](images/musique-fontana-cage.jpg)  
 **ꜛ**
-**IMAGE 29**  
-**Fontana Mix* (1958) est composé de vingt feuilles transparentes : sur certaines sont imprimés des points, sur d’autres des lignes ondulées, et deux présentent respectivement une ligne droite et une grille rectangulaire. L’objet est accompagné de quatre bandes magnétiques sur lesquelles sont enregistrées un grand nombre de sons successifs répartis en catégories : sons de la ville, sons de la campagne, sons électroniques, sons d’instruments, sons de voix, sons discrets. En superposant les calques, *Fontana Mix* devient un outil déterminant quels sons jouer, sur combien de centimètres, à quel volume, etc.*  
+*Fontana Mix* *(1958) est composé de vingt feuilles transparentes : sur certaines sont imprimés des points, sur d’autres des lignes ondulées, et deux présentent respectivement une ligne droite et une grille rectangulaire. L’objet est accompagné de quatre bandes magnétiques sur lesquelles sont enregistrées un grand nombre de sons successifs répartis en catégories : sons de la ville, sons de la campagne, sons électroniques, sons d’instruments, sons de voix, sons discrets. En superposant les calques, *Fontana Mix* devient un outil déterminant quels sons jouer, sur combien de centimètres, à quel volume, etc.*  
 *Pour Cage comme pour d’autres compositeurs utilisant des notations expérimentales ou alternatives, la partition dépasse le simple système pour mettre à l’écrit la musique, mais est souvent le catalyseur initial pour la créer. On passe même parfois davantage du côté de la mise en son du visuel que de la visualisation du son.*
 
-![](images/.jpg)  
+![](images/musique-threnody-penderecki-1.jpg)  
+![](images/musique-threnody-penderecki-2.jpg)  
+![](images/musique-threnody-penderecki-3.jpg)  
 **ꜛ**
-**IMAGES 30 À 32**  
 *Le compositeur Krzysztof Penderecki utilise des systèmes de notation sur mesure pour ses compositions, ici différents mouvements pour cordes dans *Threnody to the Victims of Hiroshima* (1960). Les indications précisent notamment de frapper les flancs des instruments ou bien de jouer l’archet sous les cordes.*
 
-![](images/.jpg)  
+![](images/musique-chollobhat-schnee.jpg)  
+![](images/musique-solomon-schnee.jpg)  
+![](images/musique-gakufu-schnee.jpg)  
 **ꜛ**
-**IMAGES 33 À 35**  
 *Daniel Schnee conçoit également des tablatures très spécifiques, cette fois pour saxophone. Musicien de jazz et artiste expressionniste, il relie ses deux pratiques par ses notations. Il explique que son système visualise le modèle mental qu’il met en œuvre pour jouer de son instrument. Il s’agit donc de notations très personnelles et subjectives, qui ne pourraient probablement pas être relues par d’autres musiciens.*
 
-![](images/.jpg)  
+![](images/musique-concerto-haubenstock.jpg)  
 **ꜛ**
-**IMAGE 36**  
 *R. Haubenstock-Ramati, *Concerto a tre*, 1973*
 
-![](images/.jpg)  
+![](images/musique-book-redman.jpg)  
 **ꜛ**
-**IMAGE 37**  
 *Will Redman, *Book*, 2013*
 
-![](images/.jpg)  
+![](images/musique-solitude-steiner.jpg)  
 **ꜛ**
-**IMAGE 38**  
 *Hans-Christoph Steiner, *Solitude*, 2004. Cette partition graphique décrit le collage d’échantillons extraits d’un morceau de Duke Ellington. Le temps s’écoule de gauche à droite, et chaque couleur correspond à différents samples audio. Les positions et variations de forme des éléments graphiques déterminent la vitesse de lecture des échantillons, leur hauteur, leur amplification, quelles parties sont lues à quels moment. Si la partition pourrait dans l’absolu être lue par un musicien comme une notice pour assembler et altérer les samples, Steiner a dévelloppé un programme interprétant le visuel pour monter automatiquement la composition.*
 
 ![](images/.jpg)  
