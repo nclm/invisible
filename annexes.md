@@ -89,25 +89,25 @@ Légendes composées en Ingleby.
 Valses nobles et sentimentales, Edward V. Huntington, The Scientific Monthly.
 * [musique-tablature-fuenllana.jpg](images/musique-tablature-fuenllana.jpg)  
 Vihuela-Tab_Fuenllana_1554.jpg, Miguel de Fuenllana, domaine public, wikimedia.org.
-* [.jpg](images/.jpg)  
-[.jpg](images/.jpg)  
-[.jpg](images/.jpg)  
+* [musique-concert-piano-orchestra-cage-1.jpg](images/musique-concert-piano-orchestra-cage-1.jpg)  
+[musique-concert-piano-orchestra-cage-2.jpg](images/musique-concert-piano-orchestra-cage-2.jpg)  
+[musique-concert-piano-orchestra-cage-3.jpg](images/musique-concert-piano-orchestra-cage-3.jpg)  
 Concert for Piano and Orchestra, John Cage, Dancers on a Plane, Susan Sontag.
-* [.jpg](images/.jpg)  
+* [musique-fontana-cage.jpg](images/musique-fontana-cage.jpg)  
 Fontana Mix, John Cage, mlkshk.com.
-* [.jpg](images/.jpg)  
-[.jpg](images/.jpg)  
-[.jpg](images/.jpg)  
+* [musique-threnody-penderecki-1.jpg](images/musique-threnody-penderecki-1.jpg)  
+[musique-threnody-penderecki-2.jpg](images/musique-threnody-penderecki-2.jpg)  
+[musique-threnody-penderecki-3.jpg](images/musique-threnody-penderecki-3.jpg)  
 Threnody to the Victims of Hiroshima, Krzysztof Penderecki, aggregat456.com.
-* [.jpg](images/.jpg)  
+* [musique-chollobhat-schnee.jpg](images/musique-chollobhat-schnee.jpg)  
 Chollobhat, Daniel Schnee, chollobhat.wordpress.com.
-* [.jpg](images/.jpg)  
+* [musique-solomon-schnee.jpg](images/musique-solomon-schnee.jpg)  
 The Apocalypse of Solomon, Daniel Schnee, chollobhat.wordpress.com.
-* [.jpg](images/.jpg)  
+* [musique-gakufu-schnee.jpg](images/musique-gakufu-schnee.jpg)  
 Gakufu, Daniel Schnee, chollobhat.wordpress.com.
-* [.jpg](images/.jpg)  
+* [musique-concerto-haubenstock.jpg](images/musique-concerto-haubenstock.jpg)  
 Concerto a tre, R. Haubenstock-Ramati, Édition Wilhelm Hansen, bnf.fr.
-* [.jpg](images/.jpg)  
+* [musique-book-redman.jpg](images/musique-book-redman.jpg)  
 Book, Will Redman, willredman.com.
 * [.jpg](images/.jpg)  
 Solitude, Hans-Christoph Steiner, at.or.at.
