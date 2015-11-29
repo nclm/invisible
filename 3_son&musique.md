@@ -268,19 +268,16 @@ Plutôt que de faire courir ce texte davantage, voici une sélection de fac-simi
 **ꜛ**
 *Hans-Christoph Steiner, *Solitude*, 2004. Cette partition graphique décrit le collage d’échantillons extraits d’un morceau de Duke Ellington. Le temps s’écoule de gauche à droite, et chaque couleur correspond à différents samples audio. Les positions et variations de forme des éléments graphiques déterminent la vitesse de lecture des échantillons, leur hauteur, leur amplification, quelles parties sont lues à quels moment. Si la partition pourrait dans l’absolu être lue par un musicien comme une notice pour assembler et altérer les samples, Steiner a dévelloppé un programme interprétant le visuel pour monter automatiquement la composition.*
 
-![](images/.jpg)  
+![](images/musique-pavilion-roden-1.jpg)  
 **ꜛ**
-**IMAGE 39**  
 *Une page de *Pavilion* par Steve Roden (2005). L’artiste s’est inspiré des plans architecturaux pour la Serpentine Gallery de Londres. Le musicien peut suivre plusieurs itinéraires sur la grille, les couleurs correspondant aux notes peintes sur un glockenspiel en jouet.*
 
-![](images/.jpg)  
+![](images/musique-pozo-castillo.jpg)  
 **ꜛ**
-**IMAGE 40**  
 *Graciela Castillo, *El Pozo* *
 
-![](images/.jpg)  
+![](images/musique-timepiece-kasemets.jpg)  
 **ꜛ**
-**IMAGE 41**  
 *Udo Kasemets, *Timepiece For A Solo Performe* *
 
 En soi, la notation n’est pas une œuvre, mais le vecteur permettant de transmettre l’œuvre. Si la notation traditionnelle est très rationnelle, on peut arguer que dans les cas de certaines de ces quelques notations, la part de subjectivité et de libre interprétation ou bien leur mécanique conceptuelle font qu’elles prennent part intégrante de l’œuvre, voire en sont la principale partie. C’est une situation ou la visualisation du phénomène (mettons qu’on peut appeler la musique phénomène) et le phénomène lui-même ne font presque plus qu’un.
@@ -293,7 +290,6 @@ Si plusieurs travaux précédents étaient en partie des interprétations, ils p
 
 Mais c’est dans l’art où l’interprétation de la musique est la plus manifeste. Les *compositions* de Vassily Kandinsky, les films de Oskar Fischinger, les *fugues* de František Kupka ou de Paul Klee sont autant de tentatives d’interpréter des pièces musicales invisibles sous des formes visibles. De manière encore plus perceptive ou instinctive, les tableaux d’artistes synesthètes entrent aussi dans cette série.
 
-![](images/.jpg)  
+![](images/musique-fuge-klee.jpg)  
 **ꜛ**
-**IMAGE 42**  
 *Paul Klee, *Fuge in Rot* (1922). Klee s’intéresse aux liens entre musique et peinture dès 1910. Il trouve que le rythme et la structure sont des notions que l’on retrouve dans les deux arts. Cette fugue est une composition polyphonique, où l’écoulement du temps est représenté par l’émergence graduelle des formes de l’obscur vers le clair.*
