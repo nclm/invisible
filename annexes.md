@@ -69,7 +69,7 @@ Look, Venetian Snares, bastwood.com.
 Celemony Melodyne Editor 2, amazona.de.
 * [son-musique-frequences.jpg.jpg](images/son-musique-frequences.jpg.jpg)  
 Contours ondulés InDesign.
-* [.jpg](images/.jpg)  
+* [musique-dynamics-abbado.jpg.jpg](images/musique-dynamics-abbado.jpg.jpg)  
 Perceptual Correspondences of Abstract Animation and Synthetic Sound, Figure 8, Final Sequence, Adriano Abbado.
 * [.jpg](images/.jpg)  
 Lochkarte_Tanzorgel.jpg, Stefan Kühn, CC-by-sa + GFDL, wikimedia.org.
