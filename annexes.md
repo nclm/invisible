@@ -115,7 +115,7 @@ Solitude, Hans-Christoph Steiner, at.or.at.
 Pavilion, Steve Roden, npr.org.
 * [musique-pozo-castillo.jpg](images/musique-pozo-castillo.jpg)  
 El Pozo, Graciela Castillo, diagonalthoughts.com.
-* [.jpg](images/.jpg)  
+* [musique-timepiece-kasemets.jpg](images/musique-timepiece-kasemets.jpg)  
 Timepiece For A Solo Performer, Udo Kasemets, diagonalthoughts.com.
 * [.jpg](images/.jpg)  
 Fuge in Rot, Paul Klee.
