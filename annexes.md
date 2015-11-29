@@ -109,7 +109,7 @@ Gakufu, Daniel Schnee, chollobhat.wordpress.com.
 Concerto a tre, R. Haubenstock-Ramati, Édition Wilhelm Hansen, bnf.fr.
 * [musique-book-redman.jpg](images/musique-book-redman.jpg)  
 Book, Will Redman, willredman.com.
-* [.jpg](images/.jpg)  
+* [musique-solitude-steiner.jpg](images/musique-solitude-steiner.jpg)  
 Solitude, Hans-Christoph Steiner, at.or.at.
 * [.jpg](images/.jpg)  
 Pavilion, Steve Roden, npr.org.
