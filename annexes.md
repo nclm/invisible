@@ -73,7 +73,7 @@ Contours ondulés InDesign.
 Perceptual Correspondences of Abstract Animation and Synthetic Sound, Figure 8, Final Sequence, Adriano Abbado.
 * [musique-orgue-barbarie-kuhn.jpg](images/musique-orgue-barbarie-kuhn.jpg)  
 Lochkarte_Tanzorgel.jpg, Stefan Kühn, CC-by-sa + GFDL, wikimedia.org.
-* [.jpg](images/.jpg)  
+* [musique-mam-bar-graph-score.jpg](images/musique-mam-bar-graph-score.jpg)  
 Origin of bar-graph score, Music Animation Machine, youtube.com.
 * [.jpg](images/.jpg)  
 Brandenburg Concerto #4, third movement, Music Animation Machine, musanim.com.
