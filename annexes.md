@@ -75,7 +75,7 @@ Perceptual Correspondences of Abstract Animation and Synthetic Sound, Figure 8, 
 Lochkarte_Tanzorgel.jpg, Stefan Kühn, CC-by-sa + GFDL, wikimedia.org.
 * [musique-mam-bar-graph-score.jpg](images/musique-mam-bar-graph-score.jpg)  
 Origin of bar-graph score, Music Animation Machine, youtube.com.
-* [.jpg](images/.jpg)  
+* [musique-mam-brandenburg.jpg](images/musique-mam-brandenburg.jpg)  
 Brandenburg Concerto #4, third movement, Music Animation Machine, musanim.com.
 * [.jpg](images/.jpg)  
 The Story of Notation, C.F. Abdy Williams.
