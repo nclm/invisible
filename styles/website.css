@@ -2,5 +2,6 @@
 
 .book-body p img,
 .book-body p img + * {
-    max-width: 70% !important;
+    margin-left: 10%;
+    margin-right: 10%;
 }
