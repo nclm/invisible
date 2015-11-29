@@ -17,7 +17,7 @@ Un court livre se demandant pourquoi et comment représenter les phénomènes no
 
 *« Visualiser l’invisible »*
 
-Ce texte, écrit en novembre 2013 par Nicolas Maravitti avec un suivi à l’ECV Provence par Lionel Bérenger, Éric Cattelain et Nathalie Bossard, est placé sous une licence [Creative Commons BY–SA](http://creativecommons.org/licenses/by-sa/3.0/deed.fr). 
+Ce texte, principalement écrit en novembre 2013 par Nicolas Maravitti avec un suivi à l’ECV Provence par Lionel Bérenger, Éric Cattelain et Nathalie Bossard, est placé sous une licence [Creative Commons BY–SA](http://creativecommons.org/licenses/by-sa/3.0/deed.fr). 
 
 Les images appartiennent à leurs auteurs respectifs : consulter les crédits en annexe.
 
