@@ -61,7 +61,7 @@ Référence API : oxfordlearners.dictionaries.com.
 Fonte API : Monaco.
 * [son-phonetique-guide-russell.jpg](images/son-phonetique-guide-russell.jpg)  
 Identifying sounds in spectrograms, Kevin Russell, umanitoba.ca.
-* [son-phonetique-triangle-vocalique-wikipedia.jpg.jpg](images/son-phonetique-triangle-vocalique-wikipedia.jpg.jpg)  
+* [son-phonetique-triangle-vocalique-wikipedia.jpg](images/son-phonetique-triangle-vocalique-wikipedia.jpg)  
 Modèle:Palette_Voyelles, CC-by-sa, fr.wikipedia.org.
 * [son-spectrogramme-cats-snares.jpg](images/son-spectrogramme-cats-snares.jpg)  
 Look, Venetian Snares, bastwood.com.
