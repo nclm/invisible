@@ -85,7 +85,7 @@ Fonte Gonville, chiark.greenend.org.uk/~sgtatham/gonville.
 Fonte IM FELL DW Pica, iginomarini.com/fell.  
 Music Notation and Terminology, Karl W. Gehrkens, gutenberg.org.  
 Légendes composées en Ingleby.
-* [.jpg](images/.jpg)  
+* [musique-valses-huntington.jpg](images/musique-valses-huntington.jpg)  
 Valses nobles et sentimentales, Edward V. Huntington, The Scientific Monthly.
 * [.jpg](images/.jpg)  
 Vihuela-Tab_Fuenllana_1554.jpg, Miguel de Fuenllana, domaine public, wikimedia.org.
