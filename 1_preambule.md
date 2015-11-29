@@ -6,7 +6,7 @@ Il y a des choses que l’on ne voit pas et qui appartiennent pourtant à la ré
 
 ## Les limites de l’invisible
 
-Un invisible peut être un phénomène qui se produit dans la réalité physique, mais que l’on perçoit par d’autres sens: sons, musique par extension, odeurs ou saveurs. Ça peut être une manifestation visible mais trop passagère et éphémère pour laisser une trace fixe, comme le mouvement. Il peut s’agir aussi de présences physiques, comme le temps ou les forces gravitationnelles. Ce qui se passe dans l’esprit peut s’y inclure aussi : pensées, idées, émotions — et ce qui en découle : langage, comportement, etc.
+Un invisible peut être un phénomène qui se produit dans la réalité physique, mais que l’on perçoit par d’autres sens : sons, musique par extension, odeurs ou saveurs. Ça peut être une manifestation visible mais trop passagère et éphémère pour laisser une trace fixe, comme le mouvement. Il peut s’agir aussi de présences physiques, comme le temps ou les forces gravitationnelles. Ce qui se passe dans l’esprit peut s’y inclure aussi : pensées, idées, émotions — et ce qui en découle : langage, comportement, etc.
 
 Le champs des invisibles et très large, et une grande partie d’entre eux ont tenté d’être visualisés. La portée de cette publication ne peut cependant pas s’élargir autant ! On se concentrera plutôt sur une portion d’entre eux avant de se focaliser précisément sur un seul, sans jamais oublier pourtant que cette délimitation, si elle est pratique, est fictive : la visualisation de l’invisible est un sujet extensible à l’infini.
 
