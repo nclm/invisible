@@ -117,7 +117,7 @@ Pavilion, Steve Roden, npr.org.
 El Pozo, Graciela Castillo, diagonalthoughts.com.
 * [musique-timepiece-kasemets.jpg](images/musique-timepiece-kasemets.jpg)  
 Timepiece For A Solo Performer, Udo Kasemets, diagonalthoughts.com.
-* [.jpg](images/.jpg)  
+* [musique-fuge-klee.jpg](images/musique-fuge-klee.jpg)  
 Fuge in Rot, Paul Klee.
 
 ## Références
