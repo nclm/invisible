@@ -1,9 +1,10 @@
 /* CSS for print */
 
-img {
-    max-width: 80%;
-}
+/*
 
+img,
 img + p em {
     max-width: 80%;
 }
+
+*/
