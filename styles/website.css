@@ -1,7 +1,1 @@
 /* CSS for website */
-
-.book-body p img,
-.book-body p img + * {
-    margin-left: 10%;
-    margin-right: 10%;
-}
