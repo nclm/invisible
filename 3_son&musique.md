@@ -211,8 +211,6 @@ Si on n’entrera pas ici dans les détails de la notation contemporaine, un liv
 
 ![](images/.jpg)  
 **ꜛ**
-
-**IMAGE 23**  
 *Quelques dispositifs graphiques et textuels utilisés aujourd’hui pour noter les composantes de la musique : hauteur, durée, intensité et timbre.*
 
 C’est une notation assez complexe. De nombreux mécanismes d’écritures différents y sont combinés pour marquer tous les aspects nécessaires pour reproduire la musique, mais on voit que cette notation, construite progressivement, par évolution, sur plusieurs siècles, est un amalgame de notations passées. Elle n’est pas non plus entièrement graphique, impliquant encore l’utilisation de mots, souvent abrégés, pour préciser certains aspects.
@@ -221,26 +219,24 @@ Plusieurs propositions pour transformer la notation musicale établie ont été 
 
 Certaines sont modérées, et offrent une évolution logique de la notation existante, comme celle proposée par Edward V. Huntington dans *The Scientific Monthly* en 1920. La majeure réforme de cette proposition est la rationalisation de la notation de la hauteur, en supprimant les symboles marquant les dièses et les bémols, remplacés par une nouvelle répartition verticale des notes. Tous les tons et demi-tons sont placés sur la portée, et autant de portées que d’octaves nécessaires courent en parallèle.
 
-![](images/.jpg)  
+![](images/musique-valses-huntington.jpg)  
 **ꜛ**
-
-**IMAGE 24**  
 *Une portion des *Valses nobles et sentimentales* de Maurice Ravel, visualisée en notation habituelle puis avec la notation rationalisée de Edward V. Huntington.*
 
-![](images/.jpg)  
+![](images/musique-tablature-fuenllana.jpg)  
 **ꜛ**
-**IMAGE 25**  
 *De façon moins universelle, il y a la visualisation par tablature. La tablature est un nom générique pour désigner un système de notation adressé spécifiquement à un instrument en particulier. Ici, une tablature pour vihuela, un instrument proche du luth, qui montre les cordes et les frettes où le musicien doit positionner ses doigts. Il existe des tablatures pour beaucoup d’instruments à cordes, mais aussi pour accordéon, harmonica et batterie.*
 
 De manière plus contemporaine cependant, on retrouve les travaux parmi les plus intéressants concernant la notation musicale dans ceux collectés par John Cage dans son anthologie intitulée *Notations*, publiée en 1969 — et de façon similaire par Theresa Sauer dans son livre *Notation 21*, sorti en 2009 pour le quarantième anniversaire de la collection de John Cage.
 
 Cage a recueilli les travaux de 165 compositeurs préférant utiliser leurs propres systèmes de notation pour élaborer leurs pièces. Le livre *Notations* propose ainsi un tour d’horizon assez varié des notations alternatives de la musique, s’éloignant généralement davantage de la notation classique que les simples améliorations comme celles d’Huntington.
 
-Plutôt que de faire courir ce texte davantage, les pages suivantes proposent une sélection de fac-similés de notations graphiques de la musique, plusieurs étant écrites par des compositeurs présentés dans les deux livres sus-cités.
+Plutôt que de faire courir ce texte davantage, voici une sélection de fac-similés de notations graphiques de la musique, plusieurs étant écrites par des compositeurs présentés dans les deux livres sus-cités.
 
-![](images/.jpg)  
+![](images/musique-concert-piano-orchestra-cage-1.jpg)  
+![](images/musique-concert-piano-orchestra-cage-2.jpg)  
+![](images/musique-concert-piano-orchestra-cage-3.jpg)  
 **ꜛ**
-**IMAGES 26 À 28**  
 *Pour commencer, un peu du travail de Cage. Compositeur non-conformiste, les travaux de Cage demandent souvent une part de création et d’interprétation pour les musiciens. Dans les partitions présentées ici, *Concert for Piano and Orchestra*, si on reconnaît une base de notation traditionnelle, la méthode de composition singularise la forme finale. Inspiré par la pratique de certains peintres, Cage utilise ici les imperfections du papier pour tracer les notes sur les portées. Les ensembles créés forment parfois des boucles et, sur les soixante trois pages de la partition, il n’y a pas d’ordre général : tous les modules peuvent être recombinés par les musiciens, le chef d’orchestre jouant un rôle d’horloge.*
 
 ![](images/.jpg)  
