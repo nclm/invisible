@@ -60,7 +60,7 @@ Comme le son possède cette possibilité d’être représenté graphiquement de
 
 ### Spectrogrammes
 
-Parlons-en, des spectrogrammes. Le spectrogramme, ou sonagramme, est une autre méthode de visualisation du son. C’est une visualisation de l’intensité du son par fréquence en fonction du temps, là où les audiogrammes présentés jusque ici montraient l’amplitude du son en fonction du temps. **— Image 9**
+Parlons-en, des spectrogrammes. Le spectrogramme, ou sonagramme, est une autre méthode de visualisation du son. C’est une visualisation de l’intensité du son par fréquence en fonction du temps, là où les audiogrammes présentés jusque ici montraient l’amplitude du son en fonction du temps.
 
 ![](images/son-spectrogramme-columbia.jpg)  
 **ꜛ**
