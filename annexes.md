@@ -113,7 +113,7 @@ Book, Will Redman, willredman.com.
 Solitude, Hans-Christoph Steiner, at.or.at.
 * [musique-pavilion-roden-1.jpg](images/musique-pavilion-roden-1.jpg)  
 Pavilion, Steve Roden, npr.org.
-* [.jpg](images/.jpg)  
+* [musique-pozo-castillo.jpg](images/musique-pozo-castillo.jpg)  
 El Pozo, Graciela Castillo, diagonalthoughts.com.
 * [.jpg](images/.jpg)  
 Timepiece For A Solo Performer, Udo Kasemets, diagonalthoughts.com.
