@@ -1,7 +1,9 @@
 /* CSS for website */
 
 .book-body img,
-.book-body img + p {
+.book-body hr {
+    display: block !important;
     max-width: 70% !important;
-    margin: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
