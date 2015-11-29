@@ -1,1 +1,6 @@
 /* CSS for website */
+
+p img,
+p img + * {
+    max-width: 70%;
+}
