@@ -11,8 +11,6 @@ Un court livre se demandant pourquoi et comment représenter les phénomènes no
 * [Lire dans sa mise en page originale](http://probablement.net/invisible/pdf/visualiser_l'invisible_ebook_1.1_doubles.pdf) (PDF, doubles pages, 13.4 Mo)
 * [Emplacement original](http://probablement.net/invisible)
 
-<img src='cover.jpg' width='200'/>
-
 ## Colophon
 
 *« Visualiser l’invisible »*
