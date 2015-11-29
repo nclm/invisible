@@ -28,8 +28,7 @@ La modélisation du réel, c’est une notion qui comprend la visualisation de l
 
 Est-ce la notation musicale est plus qu’un « écho graphique » de la musique, ou bien n’est-ce qu’un « simple moyen de l’enregistrer par des marques visibles » ? C’est une piste à explorer.
 
-**‘IMAGE’ A**  
-*Ces paragraphes sont écrits avec l’alphabet latin, un des systèmes
+*Ci-dessus : Ces paragraphes sont écrits avec l’alphabet latin, un des systèmes
 de visualisation du langage les plus répandus.*
 
 ## Visualiser les saveurs et les odeurs
