@@ -201,10 +201,8 @@ En occident, on ne semble pas avoir retrouvé des notations par les peuples égy
 
 À l’origine entièrement liées à des instruments spécifiques, tablatures sous forme textuelle indiquant davantage sur quelles cordes tirer que quelles notes jouer, elles ont prises en compte plus tardivement les notions de notes et de hauteur, d’abord en utilisant des lettres de l’alphabet, puis en développant des symboles spécifiques.
 
-![](images/.jpg)  
+![](images/musique-notation-antique.jpg)  
 **ꜛ**
-
-**IMAGE 22**  
 *Aperçu d’un exemple de notation grecque sous forme d’alphabet de symboles spécifiques. L’emplacement des branches des glyphes principaux représentent la hauteur des notes, et les accentuations qui flottent au dessus de certaines notes indiquent leur durée. Il y a eu d’autres alphabets de notations similaires à l’Antiquité.*
 
 La notation musicale a continué à évoluer au cours des siècles, influencée par l’évolution des styles musicaux et des instruments successifs, connu plusieurs réformes, s’éloignant progressivement d’un système d’alphabet pour devenir un vrai système graphique, jusqu’à atteindre celle qu’elle est aujourd’hui. 
