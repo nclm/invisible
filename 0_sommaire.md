@@ -13,6 +13,3 @@
    Où les réponses ne sont peut être pas données mais où le texte est terminé.
 
 [Annexes](annexes.md)
-
-**(Image 0)**  
-*Visualisation du déroulé. La largeur de la figure de haut en bas correspond au niveau de spécificité au cours de pages. Plus la figure est mince, plus le  contenu est d’ordre général, plus elle est large plus on s’intéresse à un sujet en détails.*
