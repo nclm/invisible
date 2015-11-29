@@ -213,7 +213,7 @@ Si on n’entrera pas ici dans les détails de la notation contemporaine, un liv
 **ꜛ**
 
 **IMAGE 23**  
-*Quelques dispositifs graphiques et textuels utilisés aujourd’hui pour noter les composantes de la musique : hauteur, durée, intensité et timbre.*
+*Quelques dispositifs graphiques et textuels utilisés aujourd’hui pour noter les composantes de la musique : hauteur, durée, intensité et timbre.*
 
 C’est une notation assez complexe. De nombreux mécanismes d’écritures différents y sont combinés pour marquer tous les aspects nécessaires pour reproduire la musique, mais on voit que cette notation, construite progressivement, par évolution, sur plusieurs siècles, est un amalgame de notations passées. Elle n’est pas non plus entièrement graphique, impliquant encore l’utilisation de mots, souvent abrégés, pour préciser certains aspects.
 
