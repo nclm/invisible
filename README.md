@@ -1,20 +1,16 @@
 Visualiser l’invisible
 ===
 
+Version 2013.
+
 ## À propos
 
 Un court livre se demandant pourquoi et comment représenter les phénomènes non-visibles.
 
 Un texte garanti avec fautes, inexactitudes et omissions.
 
-
 * [Emplacement original](http://probablement.net/invisible)
 * [**Lire dans sa mise en page originale**](http://probablement.net/invisible/pdf/visualiser_l'invisible_ebook_1.1_doubles.pdf) (PDF, doubles pages, 13.4 Mo)
-
-## Projet sur Gitbook
-1. Importer le texte et les images de la version de novembre 2013.
-2. L’archiver dans une branche.
-3. Compléter/Corriger le livre dans la branche master.
 
 ## Colophon
 
