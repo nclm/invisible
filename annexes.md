@@ -65,13 +65,13 @@ Identifying sounds in spectrograms, Kevin Russell, umanitoba.ca.
 Modèle:Palette_Voyelles, CC-by-sa, fr.wikipedia.org.
 * [son-spectrogramme-cats-snares.jpg](images/son-spectrogramme-cats-snares.jpg)  
 Look, Venetian Snares, bastwood.com.
-* [son-musique-celemony-melodyne.jpg.jpg](images/son-musique-celemony-melodyne.jpg.jpg)  
+* [son-musique-celemony-melodyne.jpg](images/son-musique-celemony-melodyne.jpg.jpg)  
 Celemony Melodyne Editor 2, amazona.de.
-* [son-musique-frequences.jpg.jpg](images/son-musique-frequences.jpg.jpg)  
+* [son-musique-frequences.jpg](images/son-musique-frequences.jpg)  
 Contours ondulés InDesign.
-* [musique-dynamics-abbado.jpg.jpg](images/musique-dynamics-abbado.jpg.jpg)  
+* [musique-dynamics-abbado.jpg](images/musique-dynamics-abbado.jpg)  
 Perceptual Correspondences of Abstract Animation and Synthetic Sound, Figure 8, Final Sequence, Adriano Abbado.
-* [musique-orgue-barbarie-kuhn.jpg.jpg](images/musique-orgue-barbarie-kuhn.jpg.jpg)  
+* [musique-orgue-barbarie-kuhn.jpg](images/musique-orgue-barbarie-kuhn.jpg)  
 Lochkarte_Tanzorgel.jpg, Stefan Kühn, CC-by-sa + GFDL, wikimedia.org.
 * [.jpg](images/.jpg)  
 Origin of bar-graph score, Music Animation Machine, youtube.com.
