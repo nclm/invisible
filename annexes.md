@@ -79,7 +79,7 @@ Origin of bar-graph score, Music Animation Machine, youtube.com.
 Brandenburg Concerto #4, third movement, Music Animation Machine, musanim.com.
 * [musique-notation-antique.jpg](images/musique-notation-antique.jpg)  
 The Story of Notation, C.F. Abdy Williams.
-* [.jpg](images/.jpg)  
+* [musique-notation-inventaire.jpg](images/musique-notation-inventaire.jpg)  
 Fonte de Lilypond, via wikimedia.org. Fonte Gonville, chiark.greenend.org.uk/~sgtatham/gonville/  
 Fonte IM FELL DW Pica, iginomarini.com/fell/  
 Music Notation and Terminology, Karl W. Gehrkens, gutenberg.org.  
