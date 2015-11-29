@@ -179,13 +179,13 @@ Les perforations pour les orgues de Barbarie, si elles sont visibles et peuvent 
 
 On retrouve cependant ce principe dans le projet débuté en 1974 par Stephen Malinowski. Frustré de la complexité des partitions traditionnelles, il tente de trouver une méthode pour visualiser des morceaux de musique de manière plus instinctive.
 
-Il représente un concerto de Brandenburg sur une bande de papier quadrillé de six mètres de long. Le principe est en tous points similaire à ceux des orgues de Barbarie, à part que Malinowski utilise également la couleur pour différencier les différents instruments de l’orchestre. **— Image 20**
+Il représente un concerto de Brandenburg sur une bande de papier quadrillé de six mètres de long. Le principe est en tous points similaire à ceux des orgues de Barbarie, à part que Malinowski utilise également la couleur pour différencier les différents instruments de l’orchestre.
 
 ![](images/musique-mam-bar-graph-score.jpg)  
 **ꜛ**
 *À l’origine de la *MAM*, un concerto de Brandenburg sur une bande de papier.*
 
-En 1981, un ami lui suggère de l’animer, mais le travail d’animation est très fastidieux. Jusqu’en 1985, il met alors au point un programme informatique répliquant le principe de sa bande de papier mais de manière automatisée : c’est la *Music Animation Machine*. **— Image 21**
+En 1981, un ami lui suggère de l’animer, mais le travail d’animation est très fastidieux. Jusqu’en 1985, il met alors au point un programme informatique répliquant le principe de sa bande de papier mais de manière automatisée : c’est la *Music Animation Machine*.
 
 ![](images/musique-mam-brandenburg.jpg)  
 **ꜛ**
@@ -209,7 +209,7 @@ La notation musicale a continué à évoluer au cours des siècles, influencée 
 
 Si on n’entrera pas ici dans les détails de la notation contemporaine, un livre de solfège se révélerait bien plus expert en la matière, faisons l’inventaire non-exhaustif des formes, symboles et autres caractéristiques utilisés aujourd’hui pour mettre à l’écrit les différentes composantes de la musique :
 
-![](images/.jpg)  
+![](images/musique-notation-inventaire.jpg)  
 **ꜛ**
 *Quelques dispositifs graphiques et textuels utilisés aujourd’hui pour noter les composantes de la musique : hauteur, durée, intensité et timbre.*
 
