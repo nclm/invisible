@@ -1,5 +1,123 @@
 # Annexes
 
+## Images
+
+**Crédits visuels, photographiques et picturaux.**
+
+* [cover.jpg](cover.jpg)  
+Notation musicale, auteur inconnu. Titre composé en Nanami.
+* [odeur-citronellol-steffen.jpg](images/odeur-citronellol-steffen.jpg)  
+Citronellol_enantiomers.svg, Steffen 962, domaine public, wikimedia.org.
+* [](images/)  
+Dr. Hanna Damasio, New York Times Magazine, 7 mai 2000.
+* [](images/)  
+Der Schrei der Natur, Edvard Munch, chasingart.com.
+* [](images/)  
+Paul Ekman, bostonmagazine.com.
+* [](images/)  
+Human Ethology, Irenäus Eibl-Eibesfeldt, page 118.
+* [](images/)  
+facebook.com.
+* [](images/)  
+Nu descendant un escalier n° 2, Marcel Duchamp, philamuseum.org.
+* [](images/)  
+Computer-Aided Ethology, Michael Spratt,michael-spratt.com.
+* [](images/)  
+Zorn_Cachucha.jpg, Huster, GFDL, wikimedia.org.
+* [](images/)  
+A Notation System for Tango, Manuel Bodirsky.
+* [](images/)  
+Human Ethology, Irenäus Eibl-Eibesfeldt, page 130.
+* [](images/)  
+Labanotation, tumblr.com.
+* [](images/)  
+Silence, SignWriting, Denny Lancaster, Tini Pell, faeriekeeper.net.
+* [](images/)  
+NOAA/NESDIS/Office of Research and Applications, Météorologie élémentaire, astrosurf.com.
+* [](images/)  
+Digital Representation of Sound, Figure 2.3, music.columbia.edu.
+* [](images/)  
+The Perception of Musical Tones, Figure 1, neuro.uoregon.edu.
+* [](images/)  
+Oscilli_AC_hum_on_sound_leak.jpg, Rippey574, CC-by, wikimedia.org.
+* IMAGE 5  
+The Institute of Optics, Rochester.
+* [](images/)  
+35mm_film_audio_macro.jpg, Rotareneg, CC-by-sa + GFDL,  wikimedia.org.
+* [](images/)  
+Mycènes Alpha, Iannis Xenakis, umatic.nl.
+* [](images/)  
+The Evil Eye, Indianen, indianen.be.
+* [](images/)  
+Digital Representation of Sound, Figure 2.3, music.columbia.edu.
+* [](images/)  
+Spectrogram.png, Raphael Frey, CC-by-sa + GFDL, wikimedia.org.
+* [](images/)  
+Sonagramme merle bleu.gif, Dbfls, domaine public, wikimedia.org.
+* [](images/)  
+How do I read a spectrogram?, Figure 8, Robert Hagiwara, umanitoba.ca.
+* [](images/)  
+Référence API : oxfordlearners dictionaries.com, Fonte API : Monaco.
+* [](images/)  
+Identifying sounds in spectrograms, Kevin Russell, umanitoba.ca.
+* [](images/)  
+Modèle:Palette_Voyelles, CC-by-sa, fr.wikipedia.org.
+* [](images/)  
+Look, Venetian Snares, bastwood.com.
+* [](images/)  
+Celemony Melodyne Editor 2, amazona.de.
+* [](images/)  
+Contours ondulés InDesign.
+* [](images/)  
+Perceptual Correspondences of Abstract Animation and Synthetic Sound, Figure 8, Final Sequence, Adriano Abbado.
+* [](images/)  
+Lochkarte_Tanzorgel.jpg, Stefan Kühn, CC-by-sa + GFDL, wikimedia.org.
+* [](images/)  
+Origin of bar-graph score, Music Animation Machine, youtube.com.
+* [](images/)  
+Brandenburg Concerto #4, third movement, Music Animation Machine, musanim.com.
+* [](images/)  
+The Story of Notation, C.F. Abdy Williams.
+* [](images/)  
+Fonte de Lilypond, via wikimedia.org. Fonte Gonville, chiark.greenend.org.uk/~sgtatham/gonville/  
+Fonte IM FELL DW Pica, iginomarini.com/fell/  
+Music Notation and Terminology, Karl W. Gehrkens, gutenberg.org.  
+Légendes composées en Ingleby.
+* [](images/)  
+Valses nobles et sentimentales, Edward V. Huntington, The Scientific Monthly.
+* [](images/)  
+Vihuela-Tab_Fuenllana_1554.jpg, Miguel de Fuenllana, domaine public, wikimedia.org.
+* [](images/)  
+[](images/)  
+[](images/)  
+Concert for Piano and Orchestra, John Cage, Dancers on a Plane, Susan Sontag.
+* [](images/)  
+Fontana Mix, John Cage, mlkshk.com.
+* [](images/)  
+[](images/)  
+[](images/)  
+Threnody to the Victims of Hiroshima, Krzysztof Penderecki, aggregat456.com.
+* [](images/)  
+Chollobhat, Daniel Schnee, chollobhat.wordpress.com.
+* [](images/)  
+The Apocalypse of Solomon, Daniel Schnee, chollobhat.wordpress.com.
+* [](images/)  
+Gakufu, Daniel Schnee, chollobhat.wordpress.com.
+* [](images/)  
+Concerto a tre, R. Haubenstock-Ramati, Édition Wilhelm Hansen, bnf.fr.
+* [](images/)  
+Book, Will Redman, willredman.com.
+* [](images/)  
+Solitude, Hans-Christoph Steiner, at.or.at.
+* [](images/)  
+Pavilion, Steve Roden, npr.org.
+* [](images/)  
+El Pozo, Graciela Castillo, diagonalthoughts.com.
+* [](images/)  
+Timepiece For A Solo Performer, Udo Kasemets, diagonalthoughts.com.
+* [](images/)  
+Fuge in Rot, Paul Klee.
+
 ## Références
 
 **Bibliographie, webographie, vidéographie.**
@@ -98,119 +216,3 @@
 * Scores from “Notations” (1969), http://variable4.org.uk/news/102
 * The Music of Painting, Peter Vergo, http://fr.phaidon.com/store/art/the-music-of-painting-9780714857626/
 * The man who heard his paintbox hiss, Ossian Ward, http://telegraph.co.uk/culture/art/3653012/The-man-who-heard-his-paintbox-hiss.html
-
-## Images
-
-**Crédits visuels, photographiques et picturaux.**
-
-* COUVERTURE  
-Notation musicale, auteur inconnu.
-* PAGE DE GARDE  
-Lunette : Discours de la Méthode, René Descartes, bibliothèque André-Desguine, Hauts-de-Seine. Instrument : French Horn, Karl Wilson Gehrkens, gutenberg.org.
-* IMAGE A  
-Ce n’est pas vraiment une image en fait.
-* IMAGE B  
-Citronellol_enantiomers.svg, Steffen 962, domaine public, wikimedia.org.
-* IMAGE C  
-Dr. Hanna Damasio, New York Times Magazine, 7 mai 2000.
-* IMAGE D  
-Der Schrei der Natur, Edvard Munch, chasingart.com.
-* IMAGE E  
-Paul Ekman, bostonmagazine.com.
-* IMAGE F  
-Human Ethology, Irenäus Eibl-Eibesfeldt, page 118.
-* IMAGE G  
-facebook.com.
-* IMAGE H  
-Nu descendant un escalier n° 2, Marcel Duchamp, philamuseum.org.
-* IMAGE I    
-Computer-Aided Ethology, Michael Spratt,michael-spratt.com.
-* IMAGE J  
-Zorn_Cachucha.jpg, Huster, GFDL, wikimedia.org.
-* IMAGE K  
-A Notation System for Tango, Manuel Bodirsky.
-* IMAGE L  
-Human Ethology, Irenäus Eibl-Eibesfeldt, page 130.
-* IMAGE M  
-Labanotation, tumblr.com.
-* IMAGE N  
-Silence, SignWriting, Denny Lancaster, Tini Pell, faeriekeeper.net.
-* IMAGE 1  
-NOAA/NESDIS/Office of Research and Applications, Météorologie élémentaire, astrosurf.com.
-* IMAGE 2  
-Digital Representation of Sound, Figure 2.3, music.columbia.edu.
-* IMAGE 3  
-The Perception of Musical Tones, Figure 1, neuro.uoregon.edu.
-* IMAGE 4  
-Oscilli_AC_hum_on_sound_leak.jpg, Rippey574, CC-by, wikimedia.org.
-* IMAGE 5  
-The Institute of Optics, Rochester.
-* IMAGE 6  
-35mm_film_audio_macro.jpg, Rotareneg, CC-by-sa + GFDL,  wikimedia.org.
-* IMAGE 7  
-Mycènes Alpha, Iannis Xenakis, umatic.nl.
-* IMAGE 8  
-The Evil Eye, Indianen, indianen.be.
-* IMAGE 9  
-Digital Representation of Sound, Figure 2.3, music.columbia.edu.
-* IMAGE 10  
-Spectrogram.png, Raphael Frey, CC-by-sa + GFDL, wikimedia.org.
-* IMAGE 11  
-Sonagramme merle bleu.gif, Dbfls, domaine public, wikimedia.org.
-* IMAGE 12  
-How do I read a spectrogram?, Figure 8, Robert Hagiwara, umanitoba.ca. Référence API : oxfordlearners dictionaries.com, Fonte API : Monaco.
-* IMAGE 13  
-Identifying sounds in spectrograms, Kevin Russell, umanitoba.ca.
-* IMAGE 14  
-Modèle:Palette_Voyelles, CC-by-sa, fr.wikipedia.org.
-* IMAGE 15  
-Look, Venetian Snares, bastwood.com.
-* IMAGE 16  
-Celemony Melodyne Editor 2, amazona.de.
-* IMAGE 17  
-Contours ondulés InDesign.
-* IMAGE 18  
-Perceptual Correspondences of Abstract Animation and Synthetic Sound, Figure 8, Final Sequence, Adriano Abbado.
-* IMAGE 19  
-Lochkarte_Tanzorgel.jpg, Stefan Kühn, CC-by-sa + GFDL, wikimedia.org.
-* IMAGE 20  
-Origin of bar-graph score, Music Animation Machine, youtube.com.
-* IMAGE 21  
-Brandenburg Concerto #4, third movement, Music Animation Machine, musanim.com.
-* IMAGE 22  
-The Story of Notation, C.F. Abdy Williams.
-* IMAGE 23  
-Fonte de Lilypond, via wikimedia.org. Fonte Gonville, chiark.greenend.org.uk/~sgtatham/gonville/  
-Fonte IM FELL DW Pica, iginomarini.com/fell/  
-Music Notation and Terminology, Karl W. Gehrkens, gutenberg.org.
-* IMAGE 24  
-Valses nobles et sentimentales, Edward V. Huntington, The Scientific Monthly.
-* IMAGE 25  
-Vihuela-Tab_Fuenllana_1554.jpg, Miguel de Fuenllana, domaine public, wikimedia.org.
-* IMAGES 26 À 28  
-Concert for Piano and Orchestra, John Cage, Dancers on a Plane, Susan Sontag.
-* IMAGE 29  
-Fontana Mix, John Cage, mlkshk.com.
-* IMAGES 30 À 32  
-Threnody to the Victims of Hiroshima, Krzysztof Penderecki, aggregat456.com.
-* IMAGE 33   
-Chollobhat, Daniel Schnee, chollobhat.wordpress.com.
-* IMAGE 34  
-The Apocalypse of Solomon, Daniel Schnee, chollobhat.wordpress.com.
-* IMAGE 35  
-Gakufu, Daniel Schnee, chollobhat.wordpress.com.
-* IMAGE 36  
-Concerto a tre, R. Haubenstock-Ramati, Édition Wilhelm Hansen, bnf.fr.
-* IMAGE 37  
-Book, Will Redman, willredman.com.
-* IMAGE 38  
-Solitude, Hans-Christoph Steiner, at.or.at.
-* IMAGE 39  
-Pavilion, Steve Roden, npr.org.
-* IMAGE 40  
-El Pozo, Graciela Castillo, diagonalthoughts.com.
-* IMAGE 41  
-Timepiece For A Solo Performer, Udo Kasemets, diagonalthoughts.com.
-* IMAGE 42  
-Fuge in Rot, Paul Klee.
-
