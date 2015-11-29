@@ -181,27 +181,17 @@ On retrouve cependant ce principe dans le projet débuté en 1974 par Stephen Ma
 
 Il représente un concerto de Brandenburg sur une bande de papier quadrillé de six mètres de long. Le principe est en tous points similaire à ceux des orgues de Barbarie, à part que Malinowski utilise également la couleur pour différencier les différents instruments de l’orchestre. **— Image 20**
 
-![](images/.jpg)  
+![](images/musique-mam-bar-graph-score.jpg)  
 **ꜛ**
+*À l’origine de la *MAM*, un concerto de Brandenburg sur une bande de papier.*
 
 En 1981, un ami lui suggère de l’animer, mais le travail d’animation est très fastidieux. Jusqu’en 1985, il met alors au point un programme informatique répliquant le principe de sa bande de papier mais de manière automatisée : c’est la *Music Animation Machine*. **— Image 21**
 
-![](images/.jpg)  
+![](images/musique-mam-brandenburg.jpg)  
 **ꜛ**
+*Portion de visualisation par la *Music Animation Machine* d’une pièce musicale.*
 
 Il y travaille encore aujourd’hui, produisant de nombreuses visualisations de morceaux qu’il distribue sous forme vidéo.
-
-![](images/.jpg)  
-**ꜛ**
-
-![](images/.jpg)  
-**ꜛ**
-
-**IMAGE 20**  
-*À l’origine de la *MAM*, un concerto de Brandenburg sur une bande de papier.*
-
-**IMAGE 21**  
-*Portion de visualisation par la *Music Animation Machine* d’une pièce musicale.*
 
 ### Notation de la musique
 
