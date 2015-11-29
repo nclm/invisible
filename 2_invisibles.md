@@ -77,7 +77,7 @@ Mais comment les représenter ? Il existe un système de notation, facial action
 
 ![](images/emotions-facs-eibl-eibesfeldt.jpg)  
 **ꜛ**
-Une salutation par un haussement des sourcils accompagné d’un sourire et d’un hochement de tête, visualisée dans le temps avec la notation FACS.*
+*Une salutation par un haussement des sourcils accompagné d’un sourire et d’un hochement de tête, visualisée dans le temps avec la notation FACS.*
 
 Une note rapide sur les émoticônes, représentations typographiques des expressions faciales, et donc des émotions. Si l’idée de dessiner des visages avec des caractères typographiques apparaît dès le dix-neuvième siècle, c’est leur réinvention par Scott Fahlman en 1982 qui semble être le mème à l’origine de leur utilisation massive aujourd’hui :
 
@@ -127,7 +127,7 @@ Les principes de visualisations du mouvement sont multiples et prennent en compt
 
 ![](images/mouvement-signwriting-silence-lancaster-pell.jpg)  
 **ꜛ**
-*Ce système de notation permet de retranscrire le langage des signes. Il s’agit de SignWriting, dévelloppé en 1974 par la danseuse Valerie Sutton après son travail sur DanceWriting. Chaque position des mains, mouvement des doigts et expression faciale y est représenté par un symbole unique.*
+*Ce système de notation permet de retranscrire le langage des signes. Il s’agit de SignWriting, développé en 1974 par la danseuse Valerie Sutton après son travail sur DanceWriting. Chaque position des mains, mouvement des doigts et expression faciale y est représenté par un symbole unique.*
 
 ##  Visualiser le son et la musique
 
