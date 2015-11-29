@@ -28,14 +28,14 @@ La modélisation du réel, c’est une notion qui comprend la visualisation de l
 
 Est-ce la notation musicale est plus qu’un « écho graphique » de la musique, ou bien n’est-ce qu’un « simple moyen de l’enregistrer par des marques visibles » ? C’est une piste à explorer.
 
-*Ci-dessus : Ces paragraphes sont écrits avec l’alphabet latin, un des systèmes
-de visualisation du langage les plus répandus.*
+*Ci-dessus : Ces paragraphes sont écrits avec l’alphabet latin, un des systèmes de visualisation du langage les plus répandus.*
 
 ## Visualiser les saveurs et les odeurs
 
 Le goût et l’odorat sont deux sens incontestablement liés, d’abord par leur proximité — le fait que la perception globale des saveurs est influencée par l’olfaction rétro-nasale qui a lieu en simultané, puis par leur rencontre dans le cortex pré-frontal, quartier cervical qui s’applique à interpréter les deux.
 
 La question est, on le fait bien pour l’ouïe en visualisant le son : peut-on (ou a-t’on) visualiser les saveurs et les odeurs ?
+
 Au a-t’on, la réponse semble globalement non. Les synesthésies goût–vue et odorat–vue semblent assez rares, et si il y a bien des cartographies répartissant sur la langue sucré, salé, amer et acide comme on en voit à l’école maternelle, elles sont toutes issues de la traduction erronée d’une thèse allemande de 1901 et passent à côté de la cinquième saveur élémentaire perçue par les humains, l’umami.
 
 Pourtant, saveurs et odeurs possèdent un riche vocabulaire les décrivant : ne pourrait-on pas l’adapter et développer un système pour les visualiser, si ce n’est rationnellement, au moins perceptivement ? Peut-être.
@@ -84,9 +84,15 @@ Une note rapide sur les émoticônes, représentations typographiques des expres
 
 ## Visualiser le mouvement
 
-En assumant qu’il est éclairé et pas plus rapide que l’œil, le mouvement n’est pas invisible en soi. Il s’agit pourtant d’un phénomène éphémère, qui — d’une certaine manière — est invisible une fois qu’il est passé, car il n’existe plus. C’est en tout cas à cause de sa fugacité qu’on a cherché à le représenter, en particulier dans la science et dans l’art. **— Image H**
+En assumant qu’il est éclairé et pas plus rapide que l’œil, le mouvement n’est pas invisible en soi. Il s’agit pourtant d’un phénomène éphémère, qui — d’une certaine manière — est invisible une fois qu’il est passé, car il n’existe plus. C’est en tout cas à cause de sa fugacité qu’on a cherché à le représenter, en particulier dans la science et dans l’art.
 
-Un enregistrement cinématographique ou vidéo est bien entendu une visualisation durable du mouvement, mais il existe également des représentations et des systèmes de notations plus graphiques. **— Image M**
+![](images/mouvement-nu-escalier-duchamp.jpg)  
+*Dans *Nu descendant un escalier n°2*, Marcel Duchamp met en image le mouvement en dépeignant par superposition ses étapes successives, à la manière d’une chronophotographie.*
+
+Un enregistrement cinématographique ou vidéo est bien entendu une visualisation durable du mouvement, mais il existe également des représentations et des systèmes de notations plus graphiques.
+
+![](images/mouvement-labanotation.jpg)  
+*Le système cinétographique Labanotation, développé depuis le travail de Rudolf Laban, permet de décrire tout type de mouvement humain. Les colonnes reprennent la symétrie du corps, le temps s’écoulant de bas en haut. En fonction de la forme des signes, de leur remplissage et de leur position, on peut lire des mouvements précis et les reproduire.*
 
 En éthologie par exemple, le comportement des animaux — et on y inclut celui des humains — se traduit souvent par le mouvement. Déplacements au sein d’un groupe, migrations, compétences manuelles, rituels, techniques de constructions, interactions quotidiennes et danses variées sont autant d’activités qui peuvent être retranscrites sous forme graphique pour les comparer, les archiver ou les étudier par la suite. **— Images I, L**
 
@@ -94,8 +100,7 @@ La danse est également dans sa pratique artistique un domaine où la transcript
 
 Les principes de visualisations du mouvement sont multiples et prennent en compte des variables et une forme différentes selon leur finalité. Il y a des systèmes sur mesure pour chaque usage. **— Image N**
 
-**IMAGE H**  
-*Dans *Nu descendant un escalier n°2*, Marcel Duchamp met en image le mouvement en dépeignant par superposition ses étapes successives, à la manière d’une chronophotographie.*
+
 
 **IMAGE I**  
 *La représentation du mouvement est beaucoup utilisée en éthologie. Sous sa forme la plus simple, un simple tracé de trajectoires, sans facteur temps, peut permettre de dégager les motifs du comportement animal. Ici, c’était prévisible, la visualisation des déplacements d’une souris dans une boîte montre à quel point elle s’intéresse à sa mangeoire.*
@@ -109,8 +114,7 @@ Les principes de visualisations du mouvement sont multiples et prennent en compt
 **IMAGE L**  
 *Pour prendre en compte plus de variables, elle peut aussi se faire plus complexe. Ici, une étude éthologique sur la danse de séduction chez les Himbas représente toutes leurs actions et interactions.*
 
-**IMAGE M**  
-*Le système cinétographique Labanotation, développé depuis le travail de Rudolf Laban, permet de décrire tout type de mouvement humain. Les colonnes reprennent la symétrie du corps, le temps s’écoulant de bas en haut. En fonction de la forme des signes, de leur remplissage et de leur position, on peut lire des mouvements précis et les reproduire.*
+
 
 **IMAGE N**  
 *Ce système de notation permet de retranscrire le langage des signes. Il s’agit de SignWriting, dévelloppé en 1974 par la danseuse Valerie Sutton après son travail sur DanceWriting. Chaque position des mains, mouvement des doigts et expression faciale y est représenté par un symbole unique.*
