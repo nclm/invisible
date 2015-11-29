@@ -110,9 +110,9 @@ C’est donc une forme de visualisation automatisée qui est surtout destinée �
 
 Avant de passer à la visualisation de la musique, survolons un instant ce qui forme la musique d’un point de vue sonore. La musique peut être réduite à quatre composantes : hauteur, durée, intensité et timbre.
 
-La hauteur est définie par la fréquence de l’onde sonore. Plus le nombre d’oscillations sur un temps donné est élevé, plus le son est aigu, plus le nombre d’oscillations est faible, plus le son est grave. **— Image 17**
+La hauteur est définie par la fréquence de l’onde sonore. Plus le nombre d’oscillations sur un temps donné est élevé, plus le son est aigu, plus le nombre d’oscillations est faible, plus le son est grave.
 
-![](images/.jpg)  
+![](images/son-musique-frequences.jpg)  
 **ꜛ**
 *Un son aigu formé par une fréquence élevée, un son grave formé par une fréquence faible.*  
 
@@ -152,10 +152,11 @@ La plupart de ces langages graphiques s’intéresse à la hauteur, à la durée
 
 C’est une constatation que fait Adriano Abbado dans une thèse qu’il publie en 1988. Il remarque que la notion de timbre est constamment ignorée en musique occidentale, alors que c’est une composante importante dans les musiques d’autres cultures, comme dans les chants des moines tibétains qui se concentrent davantage sur les variations de timbre que sur les changements de hauteurs. Avec l’arrivée des synthétiseurs, cependant, la possibilité de façonner la sonorité d’instruments artificiels a redonné à la notion de timbre son importance.
 
-Il s’intéresse à la classification des timbres par Fred Lerdhal puis travaille enfin sur leur visualisation. C’est le projet *Dynamics*. — **Image 18**
+Il s’intéresse à la classification des timbres par Fred Lerdhal puis travaille enfin sur leur visualisation. C’est le projet *Dynamics*.
 
-![](images/.jpg)  
+![](images/musique-dynamics-abbado.jpg)  
 **ꜛ**
+*Le timbre tel que représenté dans le projet *Dynamics*.*
 
 Pour retranscrire les différentes caractéristiques des timbres et leur richesses, il utilise des infographies 3D abstraites. Par exemples, les sons harmoniques sont associés à des formes lisses et les sons inharmoniques à des formes rugueuses. La forme, la couleur et la texture de ces objets tridimensionnels, ainsi que leur position dans l’espace, sont autant de variables qu’Abbado associe pour représenter le timbre.
 
@@ -164,17 +165,15 @@ Les choix sont délibérément subjectifs :
 
 Nous avons donc affaire à une visualisation qui se situe dans l’interprétation, plutôt que dans la représentation ou la notation.
 
-**IMAGE 18**  
-*Le timbre tel que représenté dans le projet *Dynamics*.*
-
 ### Représentation de la hauteur et de la durée
 
 Revenons sur deux autres composantes de la musique, la hauteur et la durée. Toutes deux sont des valeurs à une dimension, la musique réduite à ces deux caractéristiques pouvant ainsi être représentée en deux dimensions. Sur un axe, la hauteur, décrite en fréquences ou en notes ; Sur l’autre, la durée, en secondes ou en temps (pluriel, au sens musical).
 
-C’est de cette façon qu’est stockée la musique sur les bandes papiers perforées d’un orgue de Barbarie, par exemple. Les notes sont réparties en hauteur, actionnant des soufflets différents, et la durée s’étale en longueur, l’étendue réelle d’un temps dépendant de la vitesse à laquelle le musicien tourne la manivelle. Un piano mécanique fonctionne de manière similaire. **— Image 19**
+C’est de cette façon qu’est stockée la musique sur les bandes papiers perforées d’un orgue de Barbarie, par exemple. Les notes sont réparties en hauteur, actionnant des soufflets différents, et la durée s’étale en longueur, l’étendue réelle d’un temps dépendant de la vitesse à laquelle le musicien tourne la manivelle. Un piano mécanique fonctionne de manière similaire.
 
-![](images/.jpg)  
+![](images/musique-orgue-barbarie-kuhn.jpg)  
 **ꜛ**
+*La bande de papier perforée d’un orgue de Barbarie.*
 
 Les perforations pour les orgues de Barbarie, si elles sont visibles et peuvent être qualifiées de visualisation, ne sont pourtant pas destinées à une lecture humaine.
 
@@ -197,10 +196,6 @@ Il y travaille encore aujourd’hui, produisant de nombreuses visualisations de 
 
 ![](images/.jpg)  
 **ꜛ**
-
-
-**IMAGE 19**  
-*La bande de papier perforée d’un orgue de Barbarie.*
 
 **IMAGE 20**  
 *À l’origine de la *MAM*, un concerto de Brandenburg sur une bande de papier.*
