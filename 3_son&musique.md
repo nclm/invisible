@@ -396,7 +396,7 @@ Plutôt que de faire courir ce texte davantage, voici une sélection de fac-simi
 
 ---
 
-En soi, la notation n’est pas une œuvre, mais le vecteur permettant de transmettre l’œuvre. Si la notation traditionnelle est très rationnelle, on peut arguer que dans les cas de certaines de ces quelques notations, la part de subjectivité et de libre interprétation ou bien leur mécanique conceptuelle font qu’elles prennent part intégrante de l’œuvre, voire en sont la principale partie. C’est une situation ou la visualisation du phénomène (mettons qu’on peut appeler la musique phénomène) et le phénomène lui-même ne font presque plus qu’un.
+En soi, la notation n’est pas une œuvre, mais le vecteur permettant de transmettre l’œuvre. Si la notation traditionnelle est très rationnelle, on peut arguer que dans les cas de certaines de ces quelques notations, la part de subjectivité et de libre interprétation ou bien leur mécanique conceptuelle font qu’elles prennent part intégrante de l’œuvre, voire en sont la principale partie. C’est une situation où la visualisation du phénomène (mettons qu’on peut appeler la musique phénomène) et le phénomène lui-même ne font presque plus qu’un.
 
 Pour finir, une part de la visualisation de la musique où le subjectif et l’émotionnel prend une place bien plus importante.
 
