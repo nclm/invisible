@@ -36,7 +36,7 @@ Exemples : l’enregistrement d’un son permet de reproduire le son pourvu que 
 
 La synesthésie est une singularité neuronale qui consiste à tendre inconsciemment des ponts entre plusieurs sens. Un synesthète peut ainsi faire des connexions mentales entre mots et saveurs, jours de la semaine et personnalités, son et toucher, ou — pour celles liées à la vue — musique et couleurs, graphèmes et couleurs, musique et formes, nombres et position spatiale.
 
-Les artistes synesthète sont à l’origine d’œuvres transcrivant visuellement des phénomènes qui ne le sont pas.
+Les artistes synesthètes sont à l’origine d’œuvres transcrivant visuellement des phénomènes qui ne le sont pas.
 
 Par extension, on utilise aussi le terme de synesthésie pour désigner l’association, même consciente et artificielle, de plusieurs médiums répondant à des sens différents. D’une certaine manière, les systèmes de visualisation présentés dans les pages qui suivent peuvent être qualifiés de synesthétiques.
 
