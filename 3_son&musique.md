@@ -26,7 +26,7 @@ Le son est propagé par le déplacement de la pression d’un fluide, tel l’ai
 
 ---
 
-Pour l’analyser et le représenter, on lui appliquer le modèle des ondes mécaniques progressives, qui permet de résumer ces vibrations en fréquences et amplitudes, et peut être représenté grâce à une courbe en deux dimensions.
+Pour l’analyser et le représenter, on peut lui appliquer le modèle des ondes mécaniques progressives, qui permet de résumer ces vibrations en fréquences et amplitudes, et peut être représenté grâce à une courbe en deux dimensions.
 
 Si une onde mécanique classique se visualise d’une simple sinusoïdale, le mathématicien Joseph Fourier comprend en 1822 que la complexité du son peut être décrite comme une série de sinusoïdales superposées.
 
