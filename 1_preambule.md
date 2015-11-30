@@ -18,7 +18,7 @@ En collectant des visualisations, il me semble avoir pu en différencier quatre 
 
 *La notation* va plus loin. Elle est plus précise, et est souvent composée d’un système de signes ou d’alphabet. Son but, c’est la réversibilité. Une fois le phénomène traduit en notation graphique, il est possible de le répliquer en relisant la visualisation. Mieux encore, la notation peut être réalisée avant même tout phénomène, et être écrite en vue de le faire exister.
 
-*L’interprétation*, au contraire, est plus floue. C’est une visualisation souvent subjective, souvent incomplète, s’intéressant parfois plus à l’effet produit par le phénomène plus qu’au phénomène lui-même. Elle semble surtout utilisée dans les démarches artistiques.
+*L’interprétation*, au contraire, est plus floue. C’est une visualisation souvent subjective, souvent incomplète, s’intéressant parfois plus à l’effet produit par le phénomène qu’au phénomène lui-même. Elle semble surtout utilisée dans les démarches artistiques.
 
 *L’enregistrement* est la visualisation obtenue par un système traduisant par automatisme le phénomène invisible vers une forme visible. Si elle est à la limite du thème, où j’aimerais m’intéresser davantage aux méthodes de visualisation conscientes et humaines qu’aux retranscriptions mécaniques, l’enregistrement semble cependant être à la source de plusieurs systèmes de visualisation, et permet souvent de s’intéresser dans un premier temps à la forme visuelle la plus pure et réaliste du phénomène, transcrit directement d’un médium à un autre sans intervention humaine.
 
