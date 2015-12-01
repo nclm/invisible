@@ -6,7 +6,7 @@ Visualiser l’invisible
 Un court livre se demandant pourquoi et comment représenter les phénomènes non-visibles. Un texte garanti avec fautes, inexactitudes et omissions.
 
 * [Lire en ligne](https://nclm.gitbooks.io/invisible/content/) (version 2013 avec petites corrections)
-* [Lire dans sa mise en page originale](http://probablement.net/invisible/pdf/visualiser_l'invisible_ebook_1.1_doubles.pdf) (PDF, doubles pages, 13.4 Mo)
+* [Lire dans sa mise en page originale](http://probablement.net/invisible/pdf/visualiser_l'invisible_ebook_1.1_doubles.pdf) (version 2013, PDF, doubles pages, 13.4 Mo)
 * [Emplacement original](http://probablement.net/invisible)
 
 ## Colophon
