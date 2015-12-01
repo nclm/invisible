@@ -13,7 +13,7 @@ Un court livre se demandant pourquoi et comment représenter les phénomènes no
 
 *« Visualiser l’invisible »*, Nicolas Maravitti
 
-Ce texte est placé sous une licence [Creative Commons BY–SA](http://creativecommons.org/licenses/by-sa/3.0/deed.fr). 
+Ce texte est placé sous une licence [Creative Commons BY–SA](http://creativecommons.org/licenses/by-sa/4.0/deed.fr). 
 
 Les images appartiennent à leurs auteurs respectifs : consulter les crédits en annexe.
 
