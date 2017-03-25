@@ -101,7 +101,7 @@ Mais comment les représenter ? Il existe un système de notation, facial action
 
 Une note rapide sur les émoticônes, représentations typographiques des expressions faciales, et donc des émotions. Si l’idée de dessiner des visages avec des caractères typographiques apparaît dès le dix-neuvième siècle, c’est leur réinvention par Scott Fahlman en 1982 qui semble être le mème à l’origine de leur utilisation massive aujourd’hui :
 
->« Je propose cette séquence de caractères pour marquer les messages à caractère humoristiques : $$:-)$$ »
+>« Je propose cette séquence de caractères pour marquer les messages à caractère humoristiques : `:-)` »
 
 écrivit-il sur le forum de l’université de Carnegie Mellon.
 
