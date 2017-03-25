@@ -17,4 +17,4 @@ Ce texte est placé sous une licence [Creative Commons BY–SA](http://creativec
 
 Les images appartiennent à leurs auteurs respectifs : consulter les crédits en annexe.
 
-ISBN : 978-2-954 7163-1-2
+ISBN : 978-2-9547163-1-2
