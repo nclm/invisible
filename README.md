@@ -11,7 +11,7 @@ Un court livre se demandant pourquoi et comment représenter les phénomènes no
 
 ## Colophon
 
-*« Visualiser l’invisible »*, Nicolas Maravitti
+*« Visualiser l’invisible »*, Nicolas M.
 
 Ce texte est placé sous une licence [Creative Commons BY–SA](http://creativecommons.org/licenses/by-sa/4.0/deed.fr). 
 
